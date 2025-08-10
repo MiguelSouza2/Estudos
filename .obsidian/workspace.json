@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b0082b87775c47ee",
+        "id": "a9bb406ccea99dc3",
         "type": "tabs",
         "children": [
           {
-            "id": "24adcc50d09f3de3",
+            "id": "714dd4747d39cd85",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Ciências da Natureza/Química/Química Geral/Estequiometria/Estequiometria.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Estequiometria"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 242.5
   },
   "right": {
     "id": "7972a8a706615f14",
@@ -178,6 +182,34 @@
   },
   "active": "3b0627476b7c95bb",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "Ciências da Natureza/Química/Química Geral/Estequiometria/Estequiometria.md",
+    "Ciências da Natureza/Química/Química Geral/Ligações Químicas/Ligações Químicas.md",
+    "Ciências da Natureza/Química/Química Geral/Solubilidade/Solubilidade.md",
+    "Ciências da Natureza/Química/Química Geral/Propriedades Periódicas/Propriedades Periódicas.md",
+    "Ciências da Natureza/Química/Química Geral/Misturas/Misturas.md",
+    "Untitled.md",
+    "Ciências da Natureza/Química/Química Geral/Propriedades Periódicas/img/eletropositividade_1.webp",
+    "Ciências da Natureza/Química/Química Geral/Propriedades Periódicas/img/Não confirmado 838558.crdownload",
+    "Ciências da Natureza/Química/Química Geral/Propriedades Periódicas/img/eletronegatividade_1.webp",
+    "Ciências da Natureza/Química/Química Geral/Propriedades Periódicas/img/Não confirmado 773772.crdownload",
+    "Ciências da Natureza/Química/Química Geral/Propriedades Periódicas/img/ionizaa_a_o_1.webp",
+    "Ciências da Natureza/Química/Química Geral/Propriedades Periódicas/img/afinidade_eletra_nica_1.webp",
+    "Ciências da Natureza/Química/Química Geral/Propriedades Periódicas/img/Não confirmado 837006.crdownload",
+    "Ciências da Natureza/Química/Química Geral/Propriedades Periódicas/img/ponto_fusa_o_e_ebulia_a_o_1.webp",
+    "Ciências da Natureza/Química/Química Geral/Propriedades Periódicas/img/Não confirmado 352414.crdownload",
+    "Ciências da Natureza/Química/Química Geral/Propriedades Periódicas/img/densidade_absoluta_1.webp",
+    "Ciências da Natureza/Química/Química Geral/Propriedades Periódicas/img/Não confirmado 458107.crdownload",
+    "Ciências da Natureza/Química/Química Geral/Propriedades Periódicas/img/volume_ata_mico_1.webp",
+    "Ciências da Natureza/Química/Química Geral/Propriedades Periódicas/img/Não confirmado 529.crdownload",
+    "Ciências da Natureza/Química/Química Geral/Propriedades Periódicas/img",
+    "Ciências da Natureza/Química/Química Geral/Propriedades Periódicas/img/raio_ata_mico_1.webp",
+    "Ciências da Natureza/Química/Química Geral/Ligações Químicas/img/Não confirmado 295709.crdownload",
+    "Ciências da Natureza/Química/Química Geral/Ligações Químicas/img/ligacaometalicaexemploeletronseionsmetalicos-cke.webp",
+    "Ciências da Natureza/Química/Química Geral/Ligações Químicas/img/Não confirmado 920624.crdownload",
+    "Ciências da Natureza/Química/Química Geral/Ligações Químicas/img/ligacaocovalenteexemploaguah2o-cke.webp",
+    "Ciências da Natureza/Química/Química Geral/Ligações Químicas/img/Não confirmado 158186.crdownload",
+    "Ciências da Natureza/Química/Química Geral/Tabela Periódica/Tabela Periódica.md",
     "Ciências da Natureza/Química/Química Orgânica/Reações Orgânicas/Untitled 2.md",
     "Ciências da Natureza/Química/Química Orgânica/Nomenclatura/Untitled 2.md",
     "Ciências da Natureza/Química/Química Orgânica/Isomeria/Untitled 2.md",
@@ -187,13 +219,7 @@
     "Ciências da Natureza/Química/Química Inorgânica/pH e pOH/Untitled 2.md",
     "Ciências da Natureza/Química/Química Inorgânica/Funções Inorgânicas/Untitled 2.md",
     "Ciências da Natureza/Química/Química Geral/Técnicas de Separação/Untitled 2.md",
-    "Ciências da Natureza/Química/Química Geral/Tabela Periódica/Untitled 2.md",
-    "Ciências da Natureza/Química/Química Geral/Solubilidade/Untitled 2.md",
-    "Ciências da Natureza/Química/Química Geral/Propriedades Periódicas/Untitled 2.md",
-    "Ciências da Natureza/Química/Química Geral/Misturas/Untitled 2.md",
-    "Ciências da Natureza/Química/Química Geral/Ligações Químicas/Untitled 2.md",
     "Ciências da Natureza/Química/Química Geral/Geometria Molecular/Untitled 2.md",
-    "Ciências da Natureza/Química/Química Geral/Estequiometria/Untitled 2.md",
     "Ciências da Natureza/Química/Química Ambiental/Poluição/Untitled 2.md",
     "Ciências da Natureza/Química/Química Ambiental/Mudanças Climáticas/Untitled 2.md",
     "Ciências da Natureza/Química/Química Ambiental/Efeito Estufa/Untitled 2.md",
@@ -201,18 +227,6 @@
     "Ciências da Natureza/Química/Química Ambiental/Ciclos Biogeoquímicos/Untitled 2.md",
     "Ciências da Natureza/Química/Química Ambiental/Chuva Ácida/Untitled 2.md",
     "Ciências da Natureza/Química/Físico Química/Termoquímica/Untitled 2.md",
-    "Ciências da Natureza/Química/Físico Química/Soluções/Untitled 2.md",
-    "Ciências da Natureza/Química/Físico Química/Radiação/Untitled 2.md",
-    "Ciências da Natureza/Química/Físico Química/Princípio de Le Chatelier/Untitled 2.md",
-    "esse pr um teste",
-    "Ciências Humanas/História/Principais Conflitos Históricos/Guerra Fria",
-    "Ciências Humanas/História/Principais Conflitos Históricos/Segunda Guerra Mundial",
-    "Ciências Humanas/História/Principais Conflitos Históricos/Período entre guerras",
-    "Ciências Humanas/História/Principais Conflitos Históricos/Primeira Guerra Mundial",
-    "Ciências Humanas/História/História do Brasil/Nova República",
-    "Ciências Humanas/História/História do Brasil/Ditadura Militar",
-    "Ciências Humanas/História/História do Brasil/República Populista",
-    "Ciências Humanas/História/História do Brasil/Era Vargas",
-    "Ciências Humanas/História/História do Brasil/República Velha"
+    "Ciências da Natureza/Química/Físico Química/Soluções/Untitled 2.md"
   ]
 }

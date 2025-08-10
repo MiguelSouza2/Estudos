@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiVerified",
       "LiFlag",
       "🇧🇷",
       "LiPaperclip",
-      "LiPawPrint",
-      "🪴"
+      "LiPawPrint"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -59,5 +59,11 @@
   "Ciências da Natureza/Biologia/Zoologia": "LiPawPrint",
   "Ciências Humanas/História/História Geral": "LiPaperclip",
   "Ciências Humanas/História/História do Brasil": "🇧🇷",
-  "Ciências Humanas/História/Principais Conflitos Históricos": "LiFlag"
+  "Ciências Humanas/História/Principais Conflitos Históricos": "LiFlag",
+  "Ciências da Natureza/Química/Química Geral/Tabela Periódica": "LiVerified",
+  "Ciências da Natureza/Química/Química Geral/Ligações Químicas": "LiVerified",
+  "Ciências da Natureza/Química/Química Geral/Propriedades Periódicas": "LiVerified",
+  "Ciências da Natureza/Química/Química Geral/Misturas": "LiVerified",
+  "Ciências da Natureza/Química/Química Geral/Solubilidade": "LiVerified",
+  "Ciências da Natureza/Química/Química Geral/Estequiometria": "LiVerified"
 }
