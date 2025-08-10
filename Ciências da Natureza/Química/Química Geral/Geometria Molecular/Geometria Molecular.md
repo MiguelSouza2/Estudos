@@ -52,7 +52,7 @@ A geometria trigonal plana é formada quando um átomo central não apresenta pa
 
 São exemplos de moléculas com geometria trigonal: COCl₂, H₂CO₃, SO₃, NO₃⁻, BF₃ e BH₃.
 
-## Geometrial Piramidal <mark style="background: #FFB8EBA6;">(3D)</mark>
+## Geometria Piramidal <mark style="background: #FFB8EBA6;">(3D)</mark>
 A geometria piramidal triagonal é formada quando o átomo central apresenta um par de elétrons emparelhados disponiveis e está unido a três átomos ligantes. Os ângulos da molécula são menores que 109º28'.
 
 ---
@@ -95,7 +95,7 @@ A geometria octaédrica é formada quando uma molécula tem 7 átomos, pois o á
 > Além dos tipos apresentados anteriormente, existem outros tipos de geometria molecular, a saber: forma de T, gangorra ou tetraédrica distorcida, quadrado planar, pirâmide de base quadrática.
 
 ![[Sulfur-hexafluoride-90-degree.webp]]
-<div style="text-align:center"><font style="font_style:italic;color:#baba00">O<strong>Hexafluoreto de enxofre (SF₆)</strong> é um exemplo de substância cujas moléculas apresentam geometria octaédrica</font></div>
+<div style="text-align:center"><font style="font_style:italic;color:#baba00">O <strong>Hexafluoreto de enxofre (SF₆)</strong> é um exemplo de substância cujas moléculas apresentam geometria octaédrica</font></div>
 
 
 # Teoria da Repulsão dos Pares Eletrônicos de Valência (TRPEV)

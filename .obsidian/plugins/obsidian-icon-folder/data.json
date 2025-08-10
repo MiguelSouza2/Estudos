@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiVerified",
-      "LiFlag",
+      "LiBrain",
       "🇧🇷",
-      "LiPaperclip",
-      "LiPawPrint"
+      "LiBaseline",
+      "🤔",
+      "LiTrees"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -71,5 +71,19 @@
   "Ciências da Natureza/Química/Química Ambiental/Efeito Estufa": "LiVerified",
   "Ciências da Natureza/Química/Química Ambiental/Combustíveis Fósseis": "LiVerified",
   "Ciências da Natureza/Química/Química Ambiental/Mudanças Climáticas": "LiVerified",
-  "Ciências da Natureza/Química/Química Ambiental/Poluição": "LiVerified"
+  "Ciências da Natureza/Química/Química Ambiental/Poluição": "LiVerified",
+  "Ciências da Natureza/Química/Química Ambiental/Ciclos Biogeoquímicos": "LiVerified",
+  "Ciências Humanas/História/Movimentos Sociais e Direitos Humanos": "LiAccessibility",
+  "Ciências Humanas/Filosofia/Filosofia Antiga": "🧓",
+  "Ciências Humanas/Filosofia/Filosofia Medieval": "LiShield",
+  "Ciências Humanas/Filosofia/Filosofia Moderna": "🤑",
+  "Ciências Humanas/Filosofia/Filosofia Contemporânea": "LiSmartphone",
+  "Ciências Humanas/Geografia/Geografia Física": "LiLandPlot",
+  "Ciências Humanas/Geografia/Geografia Humana": "LiHand",
+  "Ciências Humanas/Geografia/Geopolítica": "LiLandmark",
+  "Ciências Humanas/Geografia/Meio Ambiente": "LiTrees",
+  "Ciências Humanas/Sociologia/Fundamentos da Sociologia": "LiBaseline",
+  "Ciências Humanas/Sociologia/Principais Pensadores": "🤔",
+  "Ciências Humanas/Sociologia/Sociologia no Brasil": "🇧🇷",
+  "Ciências Humanas/Sociologia/Temas recorrentes no ENEM": "LiBrain"
 }

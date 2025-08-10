@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciências da Natureza/Química/Química Ambiental/Ciclos Biogeoquímicos/Ciclos Biogeoquímicos.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ciclos Biogeoquímicos"
+              "title": "README"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 396.5
   },
   "right": {
     "id": "7972a8a706615f14",
@@ -183,6 +183,14 @@
   },
   "active": "e055df111f3fcb28",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Pasted image 20250810200416.png",
+    "README.md",
+    "Ciências da Natureza/Química/Química Ambiental/Ciclos Biogeoquímicos/Ciclos Biogeoquímicos.md",
+    "Ciências da Natureza/Química/Química Geral/Geometria Molecular/Geometria Molecular.md",
+    "Ciências da Natureza/Química/Química Geral/Ligações Químicas/Ligações Químicas.md",
+    "Ciências da Natureza/Química/Química Geral/Tabela Periódica/pdf/tabela-periodica-pdf.pdf",
+    "Ciências da Natureza/Química/Química Geral/Tabela Periódica/Tabela Periódica.md",
     "Ciências da Natureza/Química/Química Ambiental/Poluição/Poluição.md",
     "Ciências da Natureza/Química/Química Ambiental/Mudanças Climáticas/Mudanças climáticas.md",
     "Ciências da Natureza/Química/Química Ambiental/Mudanças Climáticas/img/mudancasclimaticasdados.webp",
@@ -203,15 +211,11 @@
     "Ciências da Natureza/Química/Química Ambiental/Combustíveis Fósseis/Nova pasta",
     "Ciências da Natureza/Química/Química Ambiental/Efeito Estufa/img/ogimageefeitoestufa-cke.webp",
     "Ciências da Natureza/Química/Química Ambiental/Efeito Estufa/img/Não confirmado 77709.crdownload",
-    "Ciências da Natureza/Química/Química Ambiental/Efeito Estufa/img",
     "Ciências da Natureza/Química/Química Ambiental/Chuva Ácida/img/corrosaochuvaacida.webp",
     "Ciências da Natureza/Química/Química Ambiental/Chuva Ácida/img/chuvaacida.webp",
     "Ciências da Natureza/Química/Química Inorgânica/pH e pOH/pH e pOH.md",
-    "Ciências da Natureza/Química/Química Geral/Geometria Molecular/Geometria Molecular.md",
-    "Ciências da Natureza/Química/Química Geral/Ligações Químicas/Ligações Químicas.md",
     "Ciências da Natureza/Química/Química Geral/Geometria Molecular/img/Sulfur-hexafluoride-90-degree.webp",
     "Ciências da Natureza/Química/Química Geral/Geometria Molecular/img/geometria-bipiramidal.png",
-    "Ciências da Natureza/Química/Química Geral/Geometria Molecular/img/geometriamolecular-1-cke.webp",
     "Ligações.md",
     "Untitled.md",
     "[[.md",
@@ -221,12 +225,9 @@
     "Ciências da Natureza/Química/Química Geral/Solubilidade/Solubilidade.md",
     "Ciências da Natureza/Química/Química Geral/Propriedades Periódicas/Propriedades Periódicas.md",
     "Ciências da Natureza/Química/Química Geral/Misturas/Misturas.md",
-    "Ciências da Natureza/Química/Química Geral/Tabela Periódica/Tabela Periódica.md",
     "Ciências da Natureza/Química/Química Orgânica/Reações Orgânicas/Untitled 2.md",
     "Ciências da Natureza/Química/Química Orgânica/Nomenclatura/Untitled 2.md",
     "Ciências da Natureza/Química/Química Orgânica/Isomeria/Untitled 2.md",
-    "Ciências da Natureza/Química/Química Orgânica/Carbono/Untitled 2.md",
-    "Ciências da Natureza/Química/Química Inorgânica/Reações Inorgânicas/Untitled 2.md",
-    "Ciências da Natureza/Química/Química Inorgânica/Funções Inorgânicas/Untitled 2.md"
+    "Ciências da Natureza/Química/Química Orgânica/Carbono/Untitled 2.md"
   ]
 }
