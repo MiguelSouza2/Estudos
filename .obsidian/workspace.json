@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "bc30be658f390081",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0082b87775c47ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24adcc50d09f3de3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cfbbe11f7683ee7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5048db3de128b660",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b0627476b7c95bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e92c02bc8fc52ceb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4e57326613dad854",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7972a8a706615f14",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8cdb0b2bd8bffd7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2ac1f8fd649ad98",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "LINKS PARA CARLA.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for LINKS PARA CARLA"
+            }
+          },
+          {
+            "id": "67d448e204b2d6e7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "LINKS PARA CARLA.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from LINKS PARA CARLA"
+            }
+          },
+          {
+            "id": "2a0845f07df2ddff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7c620ac35b108e9b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "LINKS PARA CARLA.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of LINKS PARA CARLA"
+            }
+          },
+          {
+            "id": "c496e102079e36a1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "3b0627476b7c95bb",
+  "lastOpenFiles": [
+    "esse pr um teste",
+    "Ciências da Natureza/Biologia/Citologia/Untitled.md",
+    "Ciências Humanas/História/Principais Conflitos Históricos/Guerra Fria",
+    "Ciências Humanas/História/Principais Conflitos Históricos/Segunda Guerra Mundial",
+    "Ciências Humanas/História/Principais Conflitos Históricos/Período entre guerras",
+    "Ciências Humanas/História/Principais Conflitos Históricos/Primeira Guerra Mundial",
+    "Ciências Humanas/História/História do Brasil/Nova República",
+    "Ciências Humanas/História/História do Brasil/Ditadura Militar",
+    "Ciências Humanas/História/História do Brasil/República Populista",
+    "Ciências Humanas/História/História do Brasil/Era Vargas",
+    "Ciências Humanas/História/História do Brasil/República Velha",
+    "Ciências Humanas/História/História do Brasil/Independência e Império",
+    "Ciências da Natureza/Overview.md",
+    "Ciências da Natureza/Química/Química Orgânica/Carbono/Untitled.md",
+    "TCC/LINKS PARA CARLA.md",
+    "Ciências da Natureza/Física/Cinemática/Espaço/Untitled.md",
+    "Welcome.md"
+  ]
+}
