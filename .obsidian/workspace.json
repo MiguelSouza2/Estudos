@@ -162,7 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 259.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,15 +176,35 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "24adcc50d09f3de3",
+  "active": "3b0627476b7c95bb",
   "lastOpenFiles": [
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Untitled.md",
-    "Ciências Humanas/Filosofia/Filosofia Contemporânea/Untitled.md",
-    "Ciências Humanas/Filosofia/Filosofia Medieval/Untitled 1.md",
-    "Ciências Humanas/Geografia/Geografia Física/Untitled 2.md",
-    "Ciências Humanas/Filosofia/Filosofia Moderna/Untitled 3.md",
+    "Ciências da Natureza/Química/Química Orgânica/Reações Orgânicas/Untitled 2.md",
+    "Ciências da Natureza/Química/Química Orgânica/Nomenclatura/Untitled 2.md",
+    "Ciências da Natureza/Química/Química Orgânica/Isomeria/Untitled 2.md",
+    "Ciências da Natureza/Química/Química Orgânica/Funções Orgânicas/Untitled 2.md",
+    "Ciências da Natureza/Química/Química Orgânica/Carbono/Untitled 2.md",
+    "Ciências da Natureza/Química/Química Inorgânica/Reações Inorgânicas/Untitled 2.md",
+    "Ciências da Natureza/Química/Química Inorgânica/pH e pOH/Untitled 2.md",
+    "Ciências da Natureza/Química/Química Inorgânica/Funções Inorgânicas/Untitled 2.md",
+    "Ciências da Natureza/Química/Química Geral/Técnicas de Separação/Untitled 2.md",
+    "Ciências da Natureza/Química/Química Geral/Tabela Periódica/Untitled 2.md",
+    "Ciências da Natureza/Química/Química Geral/Solubilidade/Untitled 2.md",
+    "Ciências da Natureza/Química/Química Geral/Propriedades Periódicas/Untitled 2.md",
+    "Ciências da Natureza/Química/Química Geral/Misturas/Untitled 2.md",
+    "Ciências da Natureza/Química/Química Geral/Ligações Químicas/Untitled 2.md",
+    "Ciências da Natureza/Química/Química Geral/Geometria Molecular/Untitled 2.md",
+    "Ciências da Natureza/Química/Química Geral/Estequiometria/Untitled 2.md",
+    "Ciências da Natureza/Química/Química Ambiental/Poluição/Untitled 2.md",
+    "Ciências da Natureza/Química/Química Ambiental/Mudanças Climáticas/Untitled 2.md",
+    "Ciências da Natureza/Química/Química Ambiental/Efeito Estufa/Untitled 2.md",
+    "Ciências da Natureza/Química/Química Ambiental/Combustíveis Fósseis/Untitled 2.md",
+    "Ciências da Natureza/Química/Química Ambiental/Ciclos Biogeoquímicos/Untitled 2.md",
+    "Ciências da Natureza/Química/Química Ambiental/Chuva Ácida/Untitled 2.md",
+    "Ciências da Natureza/Química/Físico Química/Termoquímica/Untitled 2.md",
+    "Ciências da Natureza/Química/Físico Química/Soluções/Untitled 2.md",
+    "Ciências da Natureza/Química/Físico Química/Radiação/Untitled 2.md",
+    "Ciências da Natureza/Química/Físico Química/Princípio de Le Chatelier/Untitled 2.md",
     "esse pr um teste",
-    "Ciências da Natureza/Biologia/Citologia/Untitled.md",
     "Ciências Humanas/História/Principais Conflitos Históricos/Guerra Fria",
     "Ciências Humanas/História/Principais Conflitos Históricos/Segunda Guerra Mundial",
     "Ciências Humanas/História/Principais Conflitos Históricos/Período entre guerras",
@@ -193,11 +213,6 @@
     "Ciências Humanas/História/História do Brasil/Ditadura Militar",
     "Ciências Humanas/História/História do Brasil/República Populista",
     "Ciências Humanas/História/História do Brasil/Era Vargas",
-    "Ciências Humanas/História/História do Brasil/República Velha",
-    "Ciências da Natureza/Overview.md",
-    "Ciências da Natureza/Química/Química Orgânica/Carbono/Untitled.md",
-    "TCC/LINKS PARA CARLA.md",
-    "Ciências da Natureza/Física/Cinemática/Espaço/Untitled.md",
-    "Welcome.md"
+    "Ciências Humanas/História/História do Brasil/República Velha"
   ]
 }
