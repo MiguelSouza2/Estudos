@@ -32,7 +32,7 @@ $$\mathrm{H}_{2}+\mathrm{O}$$
 # Tipos de ligações químicas
 
 ## Ligação iônica
-
+#Ligação_Iônica
 Também chamada de **ligação eletrovalente**, esse tipo de ligação é realizada entre íons (cátions e ânions), daí o termo "ligação iônica".
 
 Para ocorrer uma ligação iônica os átomos envolvidos apresentam tendências opostas: um átomo deve ter a capacidade de perder elétrons enquanto o outro tende a recebê-los.
@@ -53,7 +53,7 @@ Nesse composto, o sódio (Na) doa um elétron para o cloro (Cl) e se torna um c�
 > O Na fica positivo por conta de ter menos **elétrons**, que têm **carga negativa**, então o desequilíbrio tende para o lado positivo! O Cl fica negativo por ganhar mais um elétron, então fica desequilibrado para o lado negativo
 
 ## Ligação covalente
-
+#Ligação_covalente
 Também chamada de **ligação molecular**, as ligações covalentes são ligações em que ocorre o compartilhamento de elétrons para a formação de moléculas estáveis, segundo a Teoria do Octeto; diferentemente das ligações iônicas, em que há perda ou ganho de elétrons.
 
 Além disso, pares eletrônicos é o nome dado aos elétrons cedidos por cada um dos núcleos, figurando o compartilhamento dos elétrons das ligações covalentes.
@@ -73,7 +73,7 @@ Formada por dois átomos de hidrogênio e um de oxigênio. Cada traço correspon
 > Vale ressaltar que não há ganho ou perda de elétrons, então nenhum se torna um cátion ou ânion, eles apenas compartilham elétrons! 
 
 ## Ligação Covalente-Dativa 
-
+#Ligação_covalente_dativa
 Também chamada de **ligação coordenada**, ocorre quando um dos átomos apresenta seu octeto completo, ou seja, oito elétrons na última camada e o outro, para completar sua estabilidade eletrônica, necessita adquirir mais dois elétrons.
 
 Esse tipo de ligação é representada por uma seta e um exemplo é o composto dióxido de enxofre **SO2: O = S → O**.
@@ -81,7 +81,7 @@ Esse tipo de ligação é representada por uma seta e um exemplo é o composto d
 Isso ocorre porque é estabelecida uma dupla ligação do enxofre com um dos oxigênios para atingir sua estabilidade eletrônica e, além disso, o enxofre doa um par de seus elétrons para o outro oxigênio para que ele fique com oito elétrons na sua camada de valência.
 
 ## Ligação metálica
-
+#Ligação_metálica
 É a ligação que ocorre entre os metais, elementos considerados eletropositivos e bons condutores térmico e elétrico. Para tanto, alguns metais perdem elétrons da sua última camada chamados de "elétrons livres" formando assim, os cátions.
 
 A partir disso, os elétrons liberados na ligação metálica formam uma "nuvem eletrônica", também chamada de "mar de elétrons" que produz uma força fazendo com que os átomos do metal permaneçam unidos.

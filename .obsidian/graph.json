@@ -6,7 +6,57 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"Ciências da Natureza/Química\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"Ciências da Natureza/Física\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5526240
+      }
+    },
+    {
+      "query": "path:\"Ciências da Natureza/Biologia\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6091813
+      }
+    },
+    {
+      "query": "path:\"Ciências Humanas/Filosofia\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11861745
+      }
+    },
+    {
+      "query": "path:\"Ciências Humanas/Sociologia\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16086528
+      }
+    },
+    {
+      "query": "path:\"Ciências Humanas/História\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15662848
+      }
+    },
+    {
+      "query": "path:\"Ciências Humanas/Geografia\" ",
+      "color": {
+        "a": 1,
+        "rgb": 34047
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.2923186431777527,
+  "scale": 0.6707729007995364,
   "close": true
 }
