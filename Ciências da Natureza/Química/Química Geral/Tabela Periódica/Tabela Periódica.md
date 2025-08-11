@@ -40,7 +40,7 @@ Os **grupos**, anteriormente chamados de **famílias**, são as colunas vertic
 Ao todo, **18 grupos** formam a Tabela Periódica. Muitos elementos destes grupos estão relacionados de acordo com suas **propriedades químicas**.
 
 - **Grupo 1** (Família 1A): Metais Alcalinos (lítio, sódio, potássio, rubídio, césio e frâncio).
-- **Grupo 2** (Família 2A): Metais Alcalinoterrosos (berílio, magnésio, cálcio, estrôncio, bário e rádio).
+- **Grupo 2** (Família 2A): Metais Alcalinos terrosos (berílio, magnésio, cálcio, estrôncio, bário e rádio).
 - **Grupo 13** (Família 3A): Família do Boro (boro, alumínio, gálio, índio, tálio e nihônio).
 - **Grupo 14** (Família 4A): Família do Carbono (carbono, silício, germânio, estanho, chumbo e fleróvio).
 - **Grupo 15** (Família 5A): Família do Nitrogênio (nitrogênio, fósforo, arsênio, antimônio, bismuto e moscóvio).
