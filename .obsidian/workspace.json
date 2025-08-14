@@ -13,12 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Ciências da Natureza/Química/Química Geral/Modelos atômicos/Modelos Atômicos.md",
+=======
+                "file": "Ciências da Natureza/Química/Físico Química/Eletroquímica/Untitled 2.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< Updated upstream
               "title": "Modelos Atômicos"
+=======
+              "title": "Untitled 2"
+>>>>>>> Stashed changes
             }
           }
         ]
@@ -183,6 +191,7 @@
   },
   "active": "3b0627476b7c95bb",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "Ciências da Natureza/Química/Química Orgânica/Nomenclatura/Nomenclatura.md",
     "Ciências da Natureza/Química/Química Geral/Modelos atômicos/Modelos Atômicos.md",
     "Ciências da Natureza/Química/Química Geral/Modelos atômicos",
@@ -202,6 +211,8 @@
     "Ciências da Natureza/Química/Química Orgânica/Carbono/Nova pasta",
     "Ciências da Natureza/Química/Físico Química/Ácidos e bases/Ácidos e bases.md",
     "Ciências da Natureza/Química/Físico Química/Eletroquímica/Untitled 2.md",
+=======
+>>>>>>> Stashed changes
     "Ciências da Natureza/Química/Físico Química/Ácidos e bases/Untitled 2.md",
     "Ciências da Natureza/Química/Química Inorgânica/Reações Inorgânicas/Reações Inorgânicas.md",
     "Ciências da Natureza/Química/Química Geral/Tabela Periódica/Tabela Periódica.md",
