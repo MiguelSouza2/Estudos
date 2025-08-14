@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bd168cda7d29e970",
+        "id": "a2b50b97c546a363",
         "type": "tabs",
         "children": [
           {
-            "id": "e055df111f3fcb28",
+            "id": "f95a048382324589",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciências da Natureza/Química/Físico Química/Ácidos e bases/Ácidos e bases.md",
+                "file": "Ciências da Natureza/Química/Química Geral/Modelos atômicos/Modelos Atômicos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ácidos e bases"
+              "title": "Modelos Atômicos"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciências da Natureza/Química/Físico Química/Ácidos e bases/Ácidos e bases.md",
+                "file": "LINKS PARA CARLA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ácidos e bases"
+              "title": "Backlinks for LINKS PARA CARLA"
             }
           },
           {
@@ -170,6 +170,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -177,26 +178,42 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
       "media-extended:Open media": false
     }
   },
-  "active": "e055df111f3fcb28",
+  "active": "3b0627476b7c95bb",
   "lastOpenFiles": [
-    "Ciências da Natureza/Química/Química Inorgânica/Funções Inorgânicas/Funções Inorgânicas.md",
+    "Ciências da Natureza/Química/Química Orgânica/Nomenclatura/Nomenclatura.md",
+    "Ciências da Natureza/Química/Química Geral/Modelos atômicos/Modelos Atômicos.md",
+    "Ciências da Natureza/Química/Química Geral/Modelos atômicos",
+    "Ciências da Natureza/Química/Química Orgânica/Reações Orgânicas/Reações Orgânicas.md",
+    "Ciências da Natureza/Química/Química Orgânica/Plásticos/Plásticos.md",
+    "Ciências da Natureza/Química/Físico Química/Configuração eletrônica/Configuração eletrônica.md",
+    "Ciências da Natureza/Química/Físico Química/Polaridade/Polaridade.md",
+    "Ciências da Natureza/Química/Química Orgânica/Carbono/Carbono.md",
+    "Ciências da Natureza/Química/Físico Química/Polaridade",
+    "Ciências da Natureza/Química/Físico Química/Configuração eletrônica",
+    "Ciências da Natureza/Química/Química Orgânica/Plásticos",
+    "Ciências da Natureza/Química/Química Orgânica/Funções Orgânicas/Funções Orgânicas.md",
+    "Ciências da Natureza/Química/Química Orgânica/Carbono/img/image.png",
+    "Ciências da Natureza/Química/Química Orgânica/Carbono/img/Carbono.webp",
+    "Ciências da Natureza/Química/Química Orgânica/Carbono/img/Não confirmado 45769.crdownload",
+    "Ciências da Natureza/Química/Química Orgânica/Carbono/img",
+    "Ciências da Natureza/Química/Química Orgânica/Carbono/Nova pasta",
     "Ciências da Natureza/Química/Físico Química/Ácidos e bases/Ácidos e bases.md",
+    "Ciências da Natureza/Química/Físico Química/Eletroquímica/Untitled 2.md",
+    "Ciências da Natureza/Química/Físico Química/Ácidos e bases/Untitled 2.md",
     "Ciências da Natureza/Química/Química Inorgânica/Reações Inorgânicas/Reações Inorgânicas.md",
     "Ciências da Natureza/Química/Química Geral/Tabela Periódica/Tabela Periódica.md",
     "Ciências da Natureza/Química/Química Geral/Tabela Periódica/pdf/tabela-periodica-pdf.pdf",
+    "Ciências da Natureza/Química/Química Inorgânica/Funções Inorgânicas/Funções Inorgânicas.md",
     "Ciências da Natureza/Química/Química Inorgânica/pH e pOH/pH e pOH.md",
     "README.md",
     "Ciências da Natureza/Química/Química Inorgânica/pH e pOH/img/pH.jpg",
     "Ciências da Natureza/Química/Química Inorgânica/pH e pOH/img/pH-and-pOH-scale.png",
     "Ciências da Natureza/Química/Química Inorgânica/pH e pOH/img",
     "Ciências da Natureza/Química/Química Inorgânica/Funções Inorgânicas/pdf/funcoes-inorganicas.pdf",
-    "Ciências da Natureza/Química/Química Inorgânica/Funções Inorgânicas/pdf",
     "Ciências da Natureza/Química/Química Inorgânica/Funções Inorgânicas/img/reacoes-de-oxidos-anfoteros.webp",
-    "Ciências da Natureza/Química/Química Inorgânica/Funções Inorgânicas/img",
     "Pasted image 20250810200416.png",
     "Untitled.canvas",
     "Ciências da Natureza/Química/Química Ambiental/Ciclos Biogeoquímicos/Ciclos Biogeoquímicos.md",
@@ -205,30 +222,13 @@
     "Ciências da Natureza/Química/Química Ambiental/Poluição/Poluição.md",
     "Ciências da Natureza/Química/Química Ambiental/Mudanças Climáticas/Mudanças climáticas.md",
     "Ciências da Natureza/Química/Química Ambiental/Mudanças Climáticas/img/mudancasclimaticasdados.webp",
-    "Ciências da Natureza/Química/Química Ambiental/Mudanças Climáticas/img/Não confirmado 386970.crdownload",
-    "Ciências da Natureza/Química/Química Ambiental/Mudanças Climáticas/img",
-    "Ciências da Natureza/Química/Química Ambiental/Mudanças Climáticas/Nova pasta",
     "Ciências da Natureza/Química/Química Ambiental/Chuva Ácida/Chuva Ácida.md",
     "Ciências da Natureza/Química/Química Ambiental/Efeito Estufa/Efeito Estufa.md",
     "Ciências da Natureza/Química/Química Ambiental/Combustíveis Fósseis/Combustíveis Fósseis.md",
     "Ciências da Natureza/Química/Química Ambiental/Combustíveis Fósseis/img/canodegascomvalvulaamarelaabertaegasqueimando-cke.webp",
-    "Ciências da Natureza/Química/Química Ambiental/Combustíveis Fósseis/img/Não confirmado 172162.crdownload",
     "Ciências da Natureza/Química/Química Ambiental/Combustíveis Fósseis/img/plataformaremotadepocodepetroleoegas-cke.webp",
-    "Ciências da Natureza/Química/Química Ambiental/Combustíveis Fósseis/img/Não confirmado 718807.crdownload",
-    "Ciências da Natureza/Química/Química Orgânica/Funções Orgânicas/Funções Orgânicas.md",
     "Ciências da Natureza/Química/Química Ambiental/Combustíveis Fósseis/img/maosdomineirocomcarvao-cke.webp",
-    "Ciências da Natureza/Química/Química Ambiental/Efeito Estufa/img/ogimageefeitoestufa-cke.webp",
-    "Ciências da Natureza/Química/Química Ambiental/Chuva Ácida/img/corrosaochuvaacida.webp",
     "Ligações.md",
-    "Untitled.md",
-    "[[.md",
-    "[[Ligações.md",
-    "Ciências da Natureza/Química/Química Geral/Estequiometria/Estequiometria.md",
-    "Untitled 1.md",
-    "Ciências da Natureza/Química/Química Geral/Solubilidade/Solubilidade.md",
-    "Ciências da Natureza/Química/Química Geral/Propriedades Periódicas/Propriedades Periódicas.md",
-    "Ciências da Natureza/Química/Química Geral/Misturas/Misturas.md",
-    "Ciências da Natureza/Química/Química Orgânica/Reações Orgânicas/Untitled 2.md",
-    "Ciências da Natureza/Química/Química Orgânica/Nomenclatura/Untitled 2.md"
+    "[[.md"
   ]
 }
