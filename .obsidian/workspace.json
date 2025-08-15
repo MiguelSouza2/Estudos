@@ -11,10 +11,14 @@
             "id": "f95a048382324589",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Ciências Humanas/História/História do Brasil/Ditadura Militar/Tancredo Neves.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tancredo Neves"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 426.5
+    "width": 200
   },
   "right": {
     "id": "7972a8a706615f14",
@@ -179,9 +183,14 @@
   },
   "active": "f95a048382324589",
   "lastOpenFiles": [
+    "Ciências Humanas/História/História do Brasil/Ditadura Militar/Ditadura Militar no Brasil.md",
+    "Ciências Humanas/História/História do Brasil/Ditadura Militar/Tancredo Neves.md",
+    "Ciências Humanas/História/História do Brasil/Ditadura Militar/Castello Branco.md",
+    "Ciências da Natureza/Química/Química Orgânica/Carbono/Carbono.md",
+    "Ciências da Natureza/Química/Química Orgânica/Funções Orgânicas/Funções Orgânicas.md",
+    "Ciências da Natureza/Química/Química Geral/Misturas/Misturas.md",
     "Ciências Humanas/História/Movimentos Sociais e Direitos Humanos/Untitled 2.md",
     "Ciências da Natureza/Química/Química Geral/Modelos atômicos/Modelos Atômicos.md",
-    "Ciências Humanas/História/História do Brasil/Ditadura Militar/Ditadura Militar no Brasil.md",
     "README.md",
     "Untitled.canvas",
     "Ciências da Natureza/Química/Química Geral/Tabela Periódica/Tabela Periódica.md",
@@ -203,8 +212,6 @@
     "Ciências da Natureza/Química/Química Orgânica/Plásticos/Plásticos.md",
     "Ciências da Natureza/Química/Físico Química/Configuração eletrônica/Configuração eletrônica.md",
     "Ciências da Natureza/Química/Físico Química/Polaridade/Polaridade.md",
-    "Ciências da Natureza/Química/Química Orgânica/Carbono/Carbono.md",
-    "Ciências da Natureza/Química/Química Orgânica/Funções Orgânicas/Funções Orgânicas.md",
     "Ciências da Natureza/Química/Química Orgânica/Carbono/img/image.png",
     "Ciências da Natureza/Química/Química Orgânica/Carbono/img/Carbono.webp",
     "Ciências da Natureza/Química/Físico Química/Ácidos e bases/Ácidos e bases.md",
@@ -219,9 +226,6 @@
     "Pasted image 20250810200416.png",
     "Ciências da Natureza/Química/Química Ambiental/Ciclos Biogeoquímicos/Ciclos Biogeoquímicos.md",
     "Ciências da Natureza/Química/Química Geral/Geometria Molecular/Geometria Molecular.md",
-    "Ciências da Natureza/Química/Química Geral/Ligações Químicas/Ligações Químicas.md",
-    "Ciências da Natureza/Química/Química Ambiental/Poluição/Poluição.md",
-    "Ciências da Natureza/Química/Química Ambiental/Mudanças Climáticas/Mudanças climáticas.md",
     "Ciências da Natureza/Química/Química Ambiental/Mudanças Climáticas/img/mudancasclimaticasdados.webp",
     "Ciências da Natureza/Química/Química Ambiental/Combustíveis Fósseis/img/canodegascomvalvulaamarelaabertaegasqueimando-cke.webp",
     "Ciências da Natureza/Química/Química Ambiental/Combustíveis Fósseis/img/plataformaremotadepocodepetroleoegas-cke.webp",
