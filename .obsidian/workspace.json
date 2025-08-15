@@ -1,24 +1,26 @@
 {
   "main": {
-    "id": "bc30be658f390081",
+    "id": "b843041e64465589",
     "type": "split",
     "children": [
       {
-        "id": "c531bc281d32ba5a",
+        "id": "32c4f45dd50ebe56",
         "type": "tabs",
         "children": [
           {
-            "id": "4b08c265ec393090",
+            "id": "c7896f4667bd8cb7",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciências Humanas/Filosofia/Filosofia Antiga/Filosofia Antiga.md",
+                "file": "Ciências Humanas/História/História do Brasil/Ditadura Militar/Ditadura Militar no Brasil.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Filosofia Antiga"
+              "title": "Ditadura Militar no Brasil"
             }
           }
         ]
@@ -27,28 +29,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "cfbbe11f7683ee7e",
+    "id": "f7393204bc98e217",
     "type": "split",
     "children": [
       {
-        "id": "5048db3de128b660",
+        "id": "8869b2e2a3008617",
         "type": "tabs",
         "children": [
           {
-            "id": "3b0627476b7c95bb",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "e92c02bc8fc52ceb",
+            "id": "54a188bb81a27896",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,40 +50,54 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Procurar"
             }
           },
           {
-            "id": "4e57326613dad854",
+            "id": "12a19d76d5ed4746",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Marcadores"
+            }
+          },
+          {
+            "id": "ee4ba8702dd0ab72",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "7972a8a706615f14",
+    "id": "494a42ac0b0f13d2",
     "type": "split",
     "children": [
       {
-        "id": "e8cdb0b2bd8bffd7",
+        "id": "774751983e95a9db",
         "type": "tabs",
         "children": [
           {
-            "id": "a2ac1f8fd649ad98",
+            "id": "b7e5f073db34022e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LINKS PARA CARLA.md",
+                "file": "Bem-vindo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +107,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for LINKS PARA CARLA"
+              "title": "Links inversos para Bem-vindo"
             }
           },
           {
-            "id": "67d448e204b2d6e7",
+            "id": "b60342adb6d2ed12",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LINKS PARA CARLA.md",
+                "file": "Bem-vindo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from LINKS PARA CARLA"
+              "title": "Links de saída para Bem-vindo"
             }
           },
           {
-            "id": "2a0845f07df2ddff",
+            "id": "c07c043619e3b72b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,98 +140,89 @@
             }
           },
           {
-            "id": "7c620ac35b108e9b",
+            "id": "7f71d22dcddbacf6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "LINKS PARA CARLA.md",
+                "file": "Bem-vindo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of LINKS PARA CARLA"
-            }
-          },
-          {
-            "id": "c496e102079e36a1",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Sumário de Bem-vindo"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "media-extended:Open media": false
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4b08c265ec393090",
+  "active": "c7896f4667bd8cb7",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Filosofia Antiga.md",
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Aristóteles.md",
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Platão.md",
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Sócrates.md",
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Tales de Mileto.md",
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Imgs/Captura de tela 2025-08-15 130525.png",
-    "Captura de tela 2025-08-15 130525.png",
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Imgs",
-    "Ciências Humanas/Filosofia/Filosofia Moderna/Untitled 3.md",
-    "Ciências Humanas/Filosofia/Filosofia Medieval/Untitled 1.md",
-    "Ciências Humanas/Filosofia/Filosofia Contemporânea/Untitled.md",
-    "Ciências Humanas/História/História do Brasil/Ditadura Militar/Tancredo Neves.md",
+    "Ciências Humanas/História/História do Brasil/Ditadura Militar/Direitas já.md",
     "Ciências Humanas/História/História do Brasil/Ditadura Militar/Ditadura Militar no Brasil.md",
-    "Ciências Humanas/História/História do Brasil/Ditadura Militar/Castello Branco.md",
-    "Ciências da Natureza/Química/Química Orgânica/Carbono/Carbono.md",
-    "Ciências da Natureza/Química/Química Orgânica/Funções Orgânicas/Funções Orgânicas.md",
-    "Ciências da Natureza/Química/Química Geral/Misturas/Misturas.md",
-    "Ciências Humanas/História/Movimentos Sociais e Direitos Humanos/Untitled 2.md",
-    "Ciências da Natureza/Química/Química Geral/Modelos atômicos/Modelos Atômicos.md",
-    "README.md",
-    "Untitled.canvas",
-    "Ciências da Natureza/Química/Química Geral/Tabela Periódica/Tabela Periódica.md",
-    "Ciências da Natureza/Biologia/Bioquímica/Ácidos nucleicos/Untitled 2.md",
-    "Ciências da Natureza/Química/Química Inorgânica/Reações Inorgânicas/desktop.ini",
-    "Ciências da Natureza/Química/Química Inorgânica/pH e pOH/desktop.ini",
-    "Ciências da Natureza/Química/Química Inorgânica/Funções Inorgânicas/desktop.ini",
-    "Ciências da Natureza/Química/Química Geral/Ligações Químicas/desktop.ini",
-    "Ciências da Natureza/Química/Química Ambiental/desktop.ini",
-    "Ciências da Natureza/Química/Físico Química/Ácidos e bases/desktop.ini",
-    "Ciências da Natureza/Química/Físico Química/Termoquímica/desktop.ini",
-    "Ciências da Natureza/Química/Físico Química/Soluções/desktop.ini",
-    "Ciências da Natureza/Química/Físico Química/Radiação/desktop.ini",
-    "Ciências da Natureza/Física/Elétrica/Eletrodinâmica/Untitled 2.md",
-    "Ciências da Natureza/Biologia/Zoologia/Animais invertebrados e vertebrados/Untitled 2.md",
-    "Ciências da Natureza/Química/Química Orgânica/Nomenclatura/Nomenclatura.md",
-    "Ciências da Natureza/Química/Química Orgânica/Reações Orgânicas/Reações Orgânicas.md",
-    "Ciências da Natureza/Química/Química Orgânica/Plásticos/Plásticos.md",
+    "Ciências Humanas/História/História do Brasil/Ditadura Militar/José Sarney.md",
+    "Pasted image 20250815194031.png",
+    "Ciências da Natureza/Química/Química Ambiental/Chuva Ácida/Chuva Ácida.md",
+    "Ciências da Natureza/Química/Química Ambiental/Chuva Ácida/img/chuvaacida.webp",
+    "Ciências da Natureza/Química/Físico Química/Polaridade/Polaridade.md",
+    "Ciências da Natureza/Química/Físico Química/Eletroquímica/Untitled 2.md",
     "Ciências da Natureza/Química/Físico Química/Configuração eletrônica/Configuração eletrônica.md",
+    "Ciências da Natureza/Química/Físico Química/Ácidos e bases/Ácidos e bases.md",
+    "Pasted image 20250815193904.png",
+    "Ciências Humanas/História/História do Brasil/Ditadura Militar/João Goulart.md",
+    "Ciências da Natureza/Biologia/Botânica/Reprodução vegetal/Untitled 2.md",
+    "Ciências da Natureza/Biologia/Botânica/Fotossínte e respiração celular/Untitled 2.md",
+    "Ciências da Natureza/Biologia/Botânica/Estrutura e função das plantas/Untitled 2.md",
+    "Ciências da Natureza/Biologia/Bioquímica/Ácidos nucleicos/Untitled 2.md",
+    "Ciências Humanas/História/História do Brasil/Ditadura Militar/Castello Branco.md",
+    "Ciências Humanas/História/História do Brasil/Ditadura Militar/Tancredo Neves.md",
+    "2025-08-15.md",
+    "Sem título 3.canvas",
+    "Sem título 2.canvas",
+    "Sem título 1.canvas",
+    "Sem título.canvas",
+    "Ciências Humanas/Sociologia/Temas recorrentes no ENEM/Untitled 2.md",
+    "Sem título.md",
+    "Ciências Humanas/Sociologia/Temas recorrentes no ENEM",
+    "Ciências Humanas/Sociologia/Sociologia no Brasil/Untitled 2.md",
+    "Ciências Humanas/Sociologia/Sociologia no Brasil",
+    "Ciências Humanas/Sociologia/Principais Pensadores/Untitled 2.md",
+    "Ciências Humanas/Sociologia/Principais Pensadores",
+    "Ciências Humanas/Sociologia/Fundamentos da Sociologia/Untitled 2.md",
+    "Ciências Humanas/Sociologia/Fundamentos da Sociologia",
+    "Ciências Humanas/Sociologia",
+    "Ciências Humanas/História/Principais Conflitos Históricos/Segunda Guerra Mundial/Untitled 2.md",
+    "Ciências Humanas/História/Principais Conflitos Históricos/Segunda Guerra Mundial",
+    "Ciências Humanas/História/Principais Conflitos Históricos/Primeira Guerra Mundial/Untitled 2.md",
+    "Ciências Humanas/História/Principais Conflitos Históricos/Período entre guerras/Untitled 2.md",
+    "Ciências Humanas/História/Principais Conflitos Históricos/Guerra Fria/Untitled 2.md",
+    "Ciências Humanas/História/Principais Conflitos Históricos/Primeira Guerra Mundial",
+    "Ciências Humanas/História/Principais Conflitos Históricos/Período entre guerras",
+    "Ciências Humanas/História/Principais Conflitos Históricos/Guerra Fria",
+    "Ciências Humanas/História/Principais Conflitos Históricos",
+    "Ciências Humanas/História/Movimentos Sociais e Direitos Humanos/Untitled 2.md",
+    "Ciências Humanas/Filosofia/Filosofia Antiga/Imgs/Captura de tela 2025-08-15 130525.png",
     "Ciências da Natureza/Química/Química Orgânica/Carbono/img/image.png",
     "Ciências da Natureza/Química/Química Orgânica/Carbono/img/Carbono.webp",
     "Ciências da Natureza/Química/Química Inorgânica/pH e pOH/img/pH.jpg",
     "Ciências da Natureza/Química/Química Inorgânica/pH e pOH/img/pH-and-pOH-scale.png",
     "Ciências da Natureza/Química/Química Inorgânica/Funções Inorgânicas/img/reacoes-de-oxidos-anfoteros.webp",
-    "Pasted image 20250810200416.png",
-    "Ciências da Natureza/Química/Química Ambiental/Mudanças Climáticas/img/mudancasclimaticasdados.webp",
-    "Ciências da Natureza/Química/Química Ambiental/Combustíveis Fósseis/img/canodegascomvalvulaamarelaabertaegasqueimando-cke.webp"
+    "Ciências da Natureza/Química/Química Geral/Tabela Periódica/img/tabela-periodica.webp",
+    "Untitled.canvas"
   ]
 }
