@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a2b50b97c546a363",
+        "id": "bd168cda7d29e970",
         "type": "tabs",
         "children": [
           {
-            "id": "f95a048382324589",
+            "id": "e055df111f3fcb28",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Ciências da Natureza/Química/Química Orgânica/Funções Orgânicas/Funções Orgânicas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Funções Orgânicas"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 426.5
+    "width": 219.5
   },
   "right": {
     "id": "7972a8a706615f14",
@@ -90,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LINKS PARA CARLA.md",
+                "file": "Ciências da Natureza/Química/Físico Química/Ácidos e bases/Ácidos e bases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for LINKS PARA CARLA"
+              "title": "Backlinks for Ácidos e bases"
             }
           },
           {
@@ -177,45 +181,40 @@
       "media-extended:Open media": false
     }
   },
-  "active": "f95a048382324589",
+  "active": "e055df111f3fcb28",
   "lastOpenFiles": [
-    "Ciências Humanas/História/Movimentos Sociais e Direitos Humanos/Untitled 2.md",
-    "Ciências da Natureza/Química/Química Geral/Modelos atômicos/Modelos Atômicos.md",
-    "Ciências Humanas/História/História do Brasil/Ditadura Militar/Ditadura Militar no Brasil.md",
-    "README.md",
-    "Untitled.canvas",
-    "Ciências da Natureza/Química/Química Geral/Tabela Periódica/Tabela Periódica.md",
-    "Ciências da Natureza/Biologia/Bioquímica/Ácidos nucleicos/Untitled 2.md",
-    "Ciências da Natureza/Química/Química Inorgânica/Reações Inorgânicas/desktop.ini",
-    "Ciências da Natureza/Química/Química Inorgânica/pH e pOH/desktop.ini",
-    "Ciências da Natureza/Química/Química Inorgânica/Funções Inorgânicas/desktop.ini",
-    "Ciências da Natureza/Química/Química Geral/Ligações Químicas/desktop.ini",
-    "Ciências da Natureza/Química/Química Ambiental/desktop.ini",
-    "Ciências da Natureza/Química/Físico Química/Ácidos e bases/desktop.ini",
-    "Ciências da Natureza/Química/Físico Química/Termoquímica/desktop.ini",
-    "Ciências da Natureza/Química/Físico Química/Soluções/desktop.ini",
-    "Ciências da Natureza/Química/Físico Química/Radiação/desktop.ini",
-    "Ciências da Natureza/Química/Físico Química/Princípio de Le Chatelier/desktop.ini",
-    "Ciências da Natureza/Física/Elétrica/Eletrodinâmica/Untitled 2.md",
-    "Ciências da Natureza/Biologia/Zoologia/Animais invertebrados e vertebrados/Untitled 2.md",
-    "Ciências da Natureza/Química/Química Orgânica/Nomenclatura/Nomenclatura.md",
-    "Ciências da Natureza/Química/Química Orgânica/Reações Orgânicas/Reações Orgânicas.md",
-    "Ciências da Natureza/Química/Química Orgânica/Plásticos/Plásticos.md",
-    "Ciências da Natureza/Química/Físico Química/Configuração eletrônica/Configuração eletrônica.md",
-    "Ciências da Natureza/Química/Físico Química/Polaridade/Polaridade.md",
     "Ciências da Natureza/Química/Química Orgânica/Carbono/Carbono.md",
     "Ciências da Natureza/Química/Química Orgânica/Funções Orgânicas/Funções Orgânicas.md",
+    "Ciências da Natureza/Química/Química Orgânica/Carbono/Untitled.md",
+    "Untitled.canvas",
+    "Ciências da Natureza/Química/Química Orgânica/Reações Orgânicas/Reações Orgânicas.md",
+    "Ciências da Natureza/Química/Química Orgânica/Plásticos/Plásticos.md",
+    "Ciências da Natureza/Química/Química Orgânica/Plásticos",
+    "Ciências da Natureza/Química/Química Orgânica/Nomenclatura/Nomenclatura.md",
     "Ciências da Natureza/Química/Química Orgânica/Carbono/img/image.png",
     "Ciências da Natureza/Química/Química Orgânica/Carbono/img/Carbono.webp",
+    "Ciências da Natureza/Química/Química Orgânica/Carbono/img",
+    "Ciências da Natureza/Química/Química Geral/Modelos atômicos/Modelos Atômicos.md",
+    "Ciências da Natureza/Química/Química Geral/Modelos atômicos",
+    "Ciências da Natureza/Química/Físico Química/Polaridade/Polaridade.md",
+    "Ciências da Natureza/Química/Físico Química/Polaridade",
+    "Ciências da Natureza/Química/Físico Química/Configuração eletrônica/Configuração eletrônica.md",
+    "Ciências da Natureza/Química/Físico Química/Configuração eletrônica",
+    "Ciências Humanas/História/História do Brasil/Ditadura Militar/Ditadura Militar no Brasil.md",
     "Ciências da Natureza/Química/Físico Química/Ácidos e bases/Ácidos e bases.md",
-    "Ciências da Natureza/Química/Físico Química/Eletroquímica/Untitled 2.md",
-    "Ciências da Natureza/Química/Físico Química/Ácidos e bases/Untitled 2.md",
-    "Ciências da Natureza/Química/Química Inorgânica/Reações Inorgânicas/Reações Inorgânicas.md",
     "Ciências da Natureza/Química/Química Inorgânica/Funções Inorgânicas/Funções Inorgânicas.md",
+    "Ciências da Natureza/Química/Química Inorgânica/Reações Inorgânicas/Reações Inorgânicas.md",
+    "Ciências da Natureza/Química/Química Geral/Tabela Periódica/Tabela Periódica.md",
+    "Ciências da Natureza/Química/Química Geral/Tabela Periódica/pdf/tabela-periodica-pdf.pdf",
     "Ciências da Natureza/Química/Química Inorgânica/pH e pOH/pH e pOH.md",
+    "README.md",
     "Ciências da Natureza/Química/Química Inorgânica/pH e pOH/img/pH.jpg",
     "Ciências da Natureza/Química/Química Inorgânica/pH e pOH/img/pH-and-pOH-scale.png",
+    "Ciências da Natureza/Química/Química Inorgânica/pH e pOH/img",
+    "Ciências da Natureza/Química/Química Inorgânica/Funções Inorgânicas/pdf/funcoes-inorganicas.pdf",
+    "Ciências da Natureza/Química/Química Inorgânica/Funções Inorgânicas/pdf",
     "Ciências da Natureza/Química/Química Inorgânica/Funções Inorgânicas/img/reacoes-de-oxidos-anfoteros.webp",
+    "Ciências da Natureza/Química/Química Inorgânica/Funções Inorgânicas/img",
     "Pasted image 20250810200416.png",
     "Ciências da Natureza/Química/Química Ambiental/Ciclos Biogeoquímicos/Ciclos Biogeoquímicos.md",
     "Ciências da Natureza/Química/Química Geral/Geometria Molecular/Geometria Molecular.md",
@@ -223,8 +222,12 @@
     "Ciências da Natureza/Química/Química Ambiental/Poluição/Poluição.md",
     "Ciências da Natureza/Química/Química Ambiental/Mudanças Climáticas/Mudanças climáticas.md",
     "Ciências da Natureza/Química/Química Ambiental/Mudanças Climáticas/img/mudancasclimaticasdados.webp",
+    "Ciências da Natureza/Química/Química Ambiental/Chuva Ácida/Chuva Ácida.md",
+    "Ciências da Natureza/Química/Química Ambiental/Efeito Estufa/Efeito Estufa.md",
+    "Ciências da Natureza/Química/Química Ambiental/Combustíveis Fósseis/Combustíveis Fósseis.md",
     "Ciências da Natureza/Química/Química Ambiental/Combustíveis Fósseis/img/canodegascomvalvulaamarelaabertaegasqueimando-cke.webp",
     "Ciências da Natureza/Química/Química Ambiental/Combustíveis Fósseis/img/plataformaremotadepocodepetroleoegas-cke.webp",
-    "Ciências da Natureza/Química/Química Ambiental/Combustíveis Fósseis/img/maosdomineirocomcarvao-cke.webp"
+    "Ciências da Natureza/Química/Química Ambiental/Combustíveis Fósseis/img/maosdomineirocomcarvao-cke.webp",
+    "Ligações.md"
   ]
 }
