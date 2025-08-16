@@ -1,32 +1,24 @@
 {
   "main": {
-    "id": "bc30be658f390081",
+    "id": "ecac3a3e550af887",
     "type": "split",
     "children": [
       {
-        "id": "a2b50b97c546a363",
+        "id": "b60821402080938a",
         "type": "tabs",
         "children": [
           {
-            "id": "f95a048382324589",
+            "id": "7bad0c57335fd6fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< Updated upstream
-                "file": "Ciências da Natureza/Química/Química Geral/Modelos atômicos/Modelos Atômicos.md",
-=======
-                "file": "Ciências da Natureza/Química/Físico Química/Eletroquímica/Untitled 2.md",
->>>>>>> Stashed changes
+                "file": "Ciências Humanas/História/História do Brasil/Ditadura Militar/Ditadura Militar no Brasil.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< Updated upstream
-              "title": "Modelos Atômicos"
-=======
-              "title": "Untitled 2"
->>>>>>> Stashed changes
+              "title": "Ditadura Militar no Brasil"
             }
           }
         ]
@@ -35,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "cfbbe11f7683ee7e",
+    "id": "194a10e7b40f1789",
     "type": "split",
     "children": [
       {
-        "id": "5048db3de128b660",
+        "id": "11c0a031745e6615",
         "type": "tabs",
         "children": [
           {
-            "id": "3b0627476b7c95bb",
+            "id": "83118e2ed2b931b0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +48,7 @@
             }
           },
           {
-            "id": "e92c02bc8fc52ceb",
+            "id": "c40876f0d0dc4dbd",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -73,7 +65,7 @@
             }
           },
           {
-            "id": "4e57326613dad854",
+            "id": "161cabada943cd16",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -86,23 +78,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 300
   },
   "right": {
-    "id": "7972a8a706615f14",
+    "id": "498264af76f49955",
     "type": "split",
     "children": [
       {
-        "id": "e8cdb0b2bd8bffd7",
+        "id": "17b72deb62633f76",
         "type": "tabs",
         "children": [
           {
-            "id": "a2ac1f8fd649ad98",
+            "id": "831b9ae63ff65960",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LINKS PARA CARLA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,25 +103,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for LINKS PARA CARLA"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "67d448e204b2d6e7",
+            "id": "871d346c56e3f6e9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LINKS PARA CARLA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from LINKS PARA CARLA"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "2a0845f07df2ddff",
+            "id": "c33cb4301f07c19b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,22 +135,21 @@
             }
           },
           {
-            "id": "7c620ac35b108e9b",
+            "id": "db4918431e54c5d9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "LINKS PARA CARLA.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of LINKS PARA CARLA"
+              "title": "Outline"
             }
           },
           {
-            "id": "c496e102079e36a1",
+            "id": "90b847dbd6861837",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -174,11 +163,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -186,60 +174,20 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
       "media-extended:Open media": false
     }
   },
-  "active": "3b0627476b7c95bb",
+  "active": "90b847dbd6861837",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "Ciências da Natureza/Química/Química Orgânica/Nomenclatura/Nomenclatura.md",
-    "Ciências da Natureza/Química/Química Geral/Modelos atômicos/Modelos Atômicos.md",
-    "Ciências da Natureza/Química/Química Geral/Modelos atômicos",
-    "Ciências da Natureza/Química/Química Orgânica/Reações Orgânicas/Reações Orgânicas.md",
-    "Ciências da Natureza/Química/Química Orgânica/Plásticos/Plásticos.md",
-    "Ciências da Natureza/Química/Físico Química/Configuração eletrônica/Configuração eletrônica.md",
-    "Ciências da Natureza/Química/Físico Química/Polaridade/Polaridade.md",
-    "Ciências da Natureza/Química/Química Orgânica/Carbono/Carbono.md",
-    "Ciências da Natureza/Química/Físico Química/Polaridade",
-    "Ciências da Natureza/Química/Físico Química/Configuração eletrônica",
-    "Ciências da Natureza/Química/Química Orgânica/Plásticos",
+    "Ciências Humanas/História/História do Brasil/Ditadura Militar/Untitled 2.md",
+    "Ciências Humanas/Filosofia/Filosofia Antiga/Untitled.md",
+    "conflict-files-obsidian-git.md",
+    "Ciências Humanas/História/História do Brasil/Ditadura Militar/Ditadura Militar no Brasil.md",
+    "2025-08-15.md",
     "Ciências da Natureza/Química/Química Orgânica/Funções Orgânicas/Funções Orgânicas.md",
-    "Ciências da Natureza/Química/Química Orgânica/Carbono/img/image.png",
-    "Ciências da Natureza/Química/Química Orgânica/Carbono/img/Carbono.webp",
-    "Ciências da Natureza/Química/Química Orgânica/Carbono/img/Não confirmado 45769.crdownload",
-    "Ciências da Natureza/Química/Química Orgânica/Carbono/img",
-    "Ciências da Natureza/Química/Química Orgânica/Carbono/Nova pasta",
-    "Ciências da Natureza/Química/Físico Química/Ácidos e bases/Ácidos e bases.md",
-    "Ciências da Natureza/Química/Físico Química/Eletroquímica/Untitled 2.md",
-=======
->>>>>>> Stashed changes
-    "Ciências da Natureza/Química/Físico Química/Ácidos e bases/Untitled 2.md",
-    "Ciências da Natureza/Química/Química Inorgânica/Reações Inorgânicas/Reações Inorgânicas.md",
-    "Ciências da Natureza/Química/Química Geral/Tabela Periódica/Tabela Periódica.md",
-    "Ciências da Natureza/Química/Química Geral/Tabela Periódica/pdf/tabela-periodica-pdf.pdf",
-    "Ciências da Natureza/Química/Química Inorgânica/Funções Inorgânicas/Funções Inorgânicas.md",
-    "Ciências da Natureza/Química/Química Inorgânica/pH e pOH/pH e pOH.md",
-    "README.md",
-    "Ciências da Natureza/Química/Química Inorgânica/pH e pOH/img/pH.jpg",
-    "Ciências da Natureza/Química/Química Inorgânica/pH e pOH/img/pH-and-pOH-scale.png",
-    "Ciências da Natureza/Química/Química Inorgânica/pH e pOH/img",
-    "Ciências da Natureza/Química/Química Inorgânica/Funções Inorgânicas/pdf/funcoes-inorganicas.pdf",
-    "Ciências da Natureza/Química/Química Inorgânica/Funções Inorgânicas/img/reacoes-de-oxidos-anfoteros.webp",
-    "Pasted image 20250810200416.png",
-    "Untitled.canvas",
-    "Ciências da Natureza/Química/Química Ambiental/Ciclos Biogeoquímicos/Ciclos Biogeoquímicos.md",
-    "Ciências da Natureza/Química/Química Geral/Geometria Molecular/Geometria Molecular.md",
-    "Ciências da Natureza/Química/Química Geral/Ligações Químicas/Ligações Químicas.md",
-    "Ciências da Natureza/Química/Química Ambiental/Poluição/Poluição.md",
-    "Ciências da Natureza/Química/Química Ambiental/Mudanças Climáticas/Mudanças climáticas.md",
-    "Ciências da Natureza/Química/Química Ambiental/Mudanças Climáticas/img/mudancasclimaticasdados.webp",
-    "Ciências da Natureza/Química/Química Ambiental/Chuva Ácida/Chuva Ácida.md",
-    "Ciências da Natureza/Química/Química Ambiental/Efeito Estufa/Efeito Estufa.md",
-    "Ciências da Natureza/Química/Química Ambiental/Combustíveis Fósseis/Combustíveis Fósseis.md",
-    "Ciências da Natureza/Química/Química Ambiental/Combustíveis Fósseis/img/canodegascomvalvulaamarelaabertaegasqueimando-cke.webp",
-    "Ciências da Natureza/Química/Química Ambiental/Combustíveis Fósseis/img/plataformaremotadepocodepetroleoegas-cke.webp",
-    "Ciências da Natureza/Química/Química Ambiental/Combustíveis Fósseis/img/maosdomineirocomcarvao-cke.webp",
-    "Ligações.md",
-    "[[.md"
+    "Ciências Humanas/Filosofia/Filosofia Antiga/Imgs/Captura de tela 2025-08-15 130525.png",
+    "Ciências Humanas/Filosofia/Filosofia Antiga/Imgs",
+    "Captura de tela 2025-08-15 130525.png"
   ]
 }
