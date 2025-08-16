@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7bad0c57335fd6fb",
+            "id": "58a90c0cc38fadff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciências Humanas/História/História do Brasil/Ditadura Militar/Ditadura Militar no Brasil.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Ditadura Militar no Brasil"
+              "title": "New tab"
             }
           }
         ]
@@ -178,16 +174,30 @@
       "media-extended:Open media": false
     }
   },
-  "active": "90b847dbd6861837",
+  "active": "83118e2ed2b931b0",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Untitled.canvas",
+    "Sem título 2.canvas",
+    "Sem título 3.canvas",
+    "Sem título 1.canvas",
+    "Sem título.md",
+    "Sem título.canvas",
+    "README.md",
+    "Ciências Humanas/Filosofia/Filosofia Antiga/Filosofia Antiga.md",
+    "Ciências Humanas/Filosofia/Filosofia Antiga/Aristóteles.md",
+    "Ciências Humanas/Filosofia/Filosofia Antiga/Imgs/Captura de tela 2025-08-15 130525 1.png",
+    "Ciências Humanas/História/História do Brasil/Ditadura Militar/img/Pasted image 20250815194031.png",
+    "Ciências Humanas/História/História do Brasil/Ditadura Militar/img/Pasted image 20250815193904.png",
+    "Ciências Humanas/História/História do Brasil/Ditadura Militar/Ditadura Militar no Brasil.md",
+    "Ciências Humanas/História/História do Brasil/Ditadura Militar/img",
+    "Ciências Humanas/História/História do Brasil/Ditadura Militar/Direitas já.md",
+    "Ciências Humanas/História/História do Brasil/Ditadura Militar/Castello Branco.md",
     "Ciências Humanas/História/História do Brasil/Ditadura Militar/Untitled 2.md",
     "Ciências Humanas/Filosofia/Filosofia Antiga/Untitled.md",
-    "conflict-files-obsidian-git.md",
-    "Ciências Humanas/História/História do Brasil/Ditadura Militar/Ditadura Militar no Brasil.md",
     "2025-08-15.md",
     "Ciências da Natureza/Química/Química Orgânica/Funções Orgânicas/Funções Orgânicas.md",
     "Ciências Humanas/Filosofia/Filosofia Antiga/Imgs/Captura de tela 2025-08-15 130525.png",
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Imgs",
-    "Captura de tela 2025-08-15 130525.png"
+    "Ciências Humanas/Filosofia/Filosofia Antiga/Imgs"
   ]
 }
