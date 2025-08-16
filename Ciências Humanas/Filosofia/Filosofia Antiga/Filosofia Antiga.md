@@ -32,7 +32,7 @@ Dentre essas reflexões,  juntamente com o poder da palavra e da razão (logos) 
 
 - **Período Helenístico** (séculos IV a.C. a VI d.C.): Além de temas relacionados com a natureza e o homem, nessa fase os estudos estão voltados para a realização humana por meio das virtudes e da <mark style="background: #ADCCFFA6;">busca da felicidade</mark>.
 
-![[Captura de tela 2025-08-15 130525.png|700x471]]
+![[Captura de tela 2025-08-15 130525 1.png|700x471]]
 
 # Escolas Filosóficas
 Abaixo as principais escolas filosóficas existentes 

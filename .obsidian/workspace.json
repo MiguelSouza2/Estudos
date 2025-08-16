@@ -40,18 +40,18 @@
             "id": "7c742b4ebfee1164",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Ciências Humanas/História/História do Brasil/Ditadura Militar/Ditadura Militar no Brasil-Rodrigues.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Ditadura Militar no Brasil-Rodrigues"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           },
           {
-            "id": "8bfb3baa999d5035",
+            "id": "c1654dc5a40be619",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -225,12 +225,27 @@
       "media-extended:Open media": false
     }
   },
-  "active": "8bfb3baa999d5035",
+  "active": "c1654dc5a40be619",
   "lastOpenFiles": [
-    "Ciências Humanas/História/História do Brasil/Ditadura Militar/Ditadura Militar no Brasil-Rodrigues.md",
+    "Ciências Humanas/Filosofia/Filosofia Antiga/Imgs/Captura de tela 2025-08-15 130525 1.png",
+    "Ciências Humanas/História/História do Brasil/Ditadura Militar/João Goulart.md",
+    "Ciências Humanas/História/História do Brasil/Ditadura Militar/Direitas já.md",
+    "Ciências Humanas/História/História do Brasil/Ditadura Militar/José Sarney.md",
     "conflict-files-obsidian-git.md",
+    "Ciências Humanas/História/História do Brasil/Ditadura Militar/img/Pasted image 20250815194031.png",
+    "Ciências Humanas/História/História do Brasil/Ditadura Militar/img/Pasted image 20250815193904.png",
+    "Ciências Humanas/História/História do Brasil/Ditadura Militar/img",
+    "Ciências da Natureza/Química/Química Orgânica/Reações Orgânicas/img/subs-sulfur.png",
+    "Ciências da Natureza/Química/Química Orgânica/Reações Orgânicas/img/subs-nitro.png",
+    "Ciências da Natureza/Química/Química Orgânica/Reações Orgânicas/img/subs-halo.png",
+    "Ciências da Natureza/Química/Química Orgânica/Reações Orgânicas/img/reacao-adicao.png",
+    "Ciências da Natureza/Química/Química Orgânica/Reações Orgânicas/img/reacao-adicao-hidro.png",
+    "Ciências da Natureza/Química/Química Orgânica/Reações Orgânicas/img/reacao-adicao-halo.png",
+    "Ciências da Natureza/Química/Química Orgânica/Reações Orgânicas/img/oxi-alco.png",
+    "Ciências da Natureza/Química/Química Orgânica/Reações Orgânicas/img/oxi-alco-2.png",
+    "Ciências da Natureza/Química/Química Orgânica/Reações Orgânicas/img",
+    "Ciências Humanas/História/História do Brasil/Ditadura Militar/Ditadura Militar no Brasil-Rodrigues.md",
     "Untitled.canvas",
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Imgs/Captura de tela 2025-08-15 130525.png",
     "Ciências Humanas/Filosofia/Filosofia Antiga/Filosofia Antiga.md",
     "Ciências Humanas/Filosofia/Filosofia Antiga/Aristóteles.md",
     "Ciências Humanas/História/História do Brasil/Ditadura Militar/Tancredo Neves.md",
@@ -241,7 +256,6 @@
     "Ciências Humanas/Filosofia/Filosofia Antiga/Tales de Mileto.md",
     "Ciências da Natureza/Química/Química Orgânica/Funções Orgânicas/Funções Orgânicas-Rodrigues.md",
     "Ciências da Natureza/Química/Química Geral/Tabela Periódica/Tabela Periódica-Rodrigues.md",
-    "Captura de tela 2025-08-15 130525.png",
     "Ciências Humanas/Filosofia/Filosofia Antiga/Imgs",
     "Ciências Humanas/Filosofia/Filosofia Moderna/Untitled 3.md",
     "Ciências Humanas/Filosofia/Filosofia Medieval/Untitled 1.md",
@@ -253,25 +267,12 @@
     "Ciências da Natureza/Química/Química Geral/Modelos atômicos/Modelos Atômicos.md",
     "README.md",
     "Ciências da Natureza/Química/Química Geral/Tabela Periódica/Tabela Periódica.md",
-    "Ciências da Natureza/Biologia/Bioquímica/Ácidos nucleicos/Untitled 2.md",
     "Ciências da Natureza/Química/Química Inorgânica/Reações Inorgânicas/desktop.ini",
     "Ciências da Natureza/Química/Química Inorgânica/pH e pOH/desktop.ini",
     "Ciências da Natureza/Química/Química Inorgânica/Funções Inorgânicas/desktop.ini",
     "Ciências da Natureza/Química/Química Geral/Ligações Químicas/desktop.ini",
     "Ciências da Natureza/Química/Química Ambiental/desktop.ini",
     "Ciências da Natureza/Química/Físico Química/Ácidos e bases/desktop.ini",
-    "Ciências da Natureza/Química/Físico Química/Termoquímica/desktop.ini",
-    "Ciências da Natureza/Química/Físico Química/Soluções/desktop.ini",
-    "Ciências da Natureza/Química/Físico Química/Radiação/desktop.ini",
-    "Ciências da Natureza/Física/Elétrica/Eletrodinâmica/Untitled 2.md",
-    "Ciências da Natureza/Biologia/Zoologia/Animais invertebrados e vertebrados/Untitled 2.md",
-    "Ciências da Natureza/Química/Química Orgânica/Carbono/img/image.png",
-    "Ciências da Natureza/Química/Química Orgânica/Carbono/img/Carbono.webp",
-    "Ciências da Natureza/Química/Química Inorgânica/pH e pOH/img/pH.jpg",
-    "Ciências da Natureza/Química/Química Inorgânica/pH e pOH/img/pH-and-pOH-scale.png",
-    "Ciências da Natureza/Química/Química Inorgânica/Funções Inorgânicas/img/reacoes-de-oxidos-anfoteros.webp",
-    "Pasted image 20250810200416.png",
-    "Ciências da Natureza/Química/Química Ambiental/Mudanças Climáticas/img/mudancasclimaticasdados.webp",
-    "Ciências da Natureza/Química/Química Ambiental/Combustíveis Fósseis/img/canodegascomvalvulaamarelaabertaegasqueimando-cke.webp"
+    "Ciências da Natureza/Química/Físico Química/Termoquímica/desktop.ini"
   ]
 }
