@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Isomeria"
             }
+          },
+          {
+            "id": "5c6bcc6f2087a717",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,17 +194,17 @@
       "media-extended:Open media": false
     }
   },
-  "active": "5b12750a05764bd9",
+  "active": "90b847dbd6861837",
   "lastOpenFiles": [
-    "Ciências da Natureza/Química/Química Orgânica/Funções Orgânicas/Funções Orgânicas.md",
-    "Ciências da Natureza/Química/Química Orgânica/Isomeria/Isomeria.md",
-    "Ciências da Natureza/Química/Química Orgânica/Classificação das Cadeias Carbônicas/Classificação das Cadeias Carbônicas.md",
-    "Ciências da Natureza/Química/Química Orgânica/Classificação das Cadeias Carbônicas",
-    "Ciências Humanas/História/História do Brasil/Ditadura Militar/Ditadura Militar no Brasil.md",
     "conflict-files-obsidian-git.md",
+    "Ciências da Natureza/Química/Química Orgânica/Isomeria/Isomeria.md",
     "Ciências da Natureza/Química/Química Orgânica/Funções Orgânicas/Funções Orgânicas-Rodrigues.md",
     "Ciências da Natureza/Química/Química Geral/Tabela Periódica/Tabela Periódica-Rodrigues.md",
     "Ciências Humanas/História/História do Brasil/Ditadura Militar/Ditadura Militar no Brasil-Rodrigues.md",
+    "Ciências da Natureza/Química/Química Orgânica/Funções Orgânicas/Funções Orgânicas.md",
+    "Ciências da Natureza/Química/Química Orgânica/Classificação das Cadeias Carbônicas/Classificação das Cadeias Carbônicas.md",
+    "Ciências da Natureza/Química/Química Orgânica/Classificação das Cadeias Carbônicas",
+    "Ciências Humanas/História/História do Brasil/Ditadura Militar/Ditadura Militar no Brasil.md",
     "Ciências da Natureza/Química/Química Geral/Tabela Periódica/Tabela Periódica.md",
     "Ciências Humanas/Filosofia/Filosofia Antiga/Imgs/Captura de tela 2025-08-15 130525.png",
     "Ciências da Natureza/Química/Química Inorgânica/Funções Inorgânicas/Funções Inorgânicas.md",
