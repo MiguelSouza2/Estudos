@@ -18,7 +18,7 @@ Só foi confirmada quando Friedrich Wohler fez a síntese da ureia a partir da a
 <div style="text-align:center"><mark style="background: #FFB8EBA6;">A fórmula molecular dos pares são as mesmas, porém variam no tipo de cadeia.</mark></div>
 
 ### Isomeria de função
-> Aqui, os isômeros têm funções orgânicas diferentes
+> Aqui, os isômeros têm [[Funções Orgânicas]] diferentes
 
 ![[iso-funcao.png]]
 <div style="text-align:center"><mark style="background: #FFB8EBA6;">Note que a fórmula molecular de ambos é C₄H₁₀O, porém o primeiro caso se trata de um álcool e o segundo, um éter.</mark></div>

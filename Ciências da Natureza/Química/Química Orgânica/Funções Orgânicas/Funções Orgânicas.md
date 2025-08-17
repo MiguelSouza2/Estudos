@@ -1,13 +1,11 @@
-# O que são?
-
+# **O que são?**
 > Funções orgânicas são grupos de compostos químicos que possuem propriedades e características semelhantes devido à presença de um grupo funcional específico.
 
 Existem diversas funções orgânicas, incluindo hidrocarbonetos, álcoois, éteres, aldeídos, cetonas, ácidos carboxílicos, ésteres, aminas e amidas, entre outras.
 
-# Tipos de funções orgânicas 
+# **Tipos de funções orgânicas** 
 
-## Hidrocarbonetos
-
+## <mark style="background: #D2B3FFA6;">Hidrocarbonetos</mark>
 > São compostos formados APENAS POR HIDROGÊNIO E CARBONO.
 
 Esses compostos são praticamente apolares e suas moléculas se unem por dipolo induzido
@@ -108,8 +106,8 @@ C(#C)C(#C)
 <div style="text-align: center;font-weight:bold;color:#FF1111;">(...)</div>
 
 
-## Funções oxigenadas:
-### Álcool
+## <mark style="background: #D2B3FFA6;">Funções oxigenadas:</mark>
+### <mark style="background: #FFB86CA6;">Álcool</mark>
 > É o grupo que contém Hidroxila (-OH) ligado a um carbono saturado
 
 #### Nomenclatura
@@ -129,7 +127,7 @@ C[OH]
 CC[OH]
 ```
 <div style="text-align:center;"><mark style="background: #FFF3A3A6;">Esse é o Etanol (álcool etílico)</mark></div>
-### Ácido carboxílico
+### <mark style="background: #FFB86CA6;">Ácido carboxílico</mark>
 > Quando há uma carboxila (COOH) ligada à cadeia carbônica
 
 *Carboxila*:
@@ -157,7 +155,7 @@ C-C(=O)(-O)
 C-C-C(=O)(O)
 ```
 
-### Aldeído
+### <mark style="background: #FFB86CA6;">Aldeído</mark>
 > Ocorre quando há uma carbonila (COH) ligada à extremidade da cadeia carbônica
 
 *Carbonila*:
@@ -188,7 +186,7 @@ CCC(=O)[H]
 ```
 
 
-### Cetona
+### <mark style="background: #FFB86CA6;">Cetona</mark>
 > Quando há uma carbonila ligada à duas cadeias carbônicas
 #### Nomenclatura
 | **Prefixo**    | **Intermédio**  | **Grupo funcional (+ de 4 carbonos na cadeia principal)** | **Sufixo** |
@@ -219,7 +217,7 @@ CCC(=O)CC
 ```
 
 
-### Éster
+### <mark style="background: #FFB86CA6;">Éster</mark>
 > Ocorre quando um radical éster (COOC) é ligado à duas cadeias carbônicas
 
 *Radical éster*:
@@ -256,7 +254,7 @@ CC(=O)(OCC)
 ```
 
 
-### Éter
+### <mark style="background: #FFB86CA6;">Éter</mark>
 > Ocorre quando há um oxigênio entre duas cadeias carbônicas
 #### Nomenclatura
 | **1º Prefixo**                 | **Sufixo** | **2º Prefixo**                 | **2º Intermédio**               | **Sufixo** |
@@ -288,7 +286,7 @@ CCC(OCCC)
 ```
 
 
-### Fenol
+### <mark style="background: #FFB86CA6;">Fenol</mark>
 > Um fenol é quando um anel aromático está ligado à uma hidroxila (-OH)
 
 **Fenol**:
@@ -317,10 +315,10 @@ c1(c([OH])cc([OH])cc([OH])1)
 ```
 
 
-## Funções Nitrogenadas
+## <mark style="background: #D2B3FFA6;">Funções Nitrogenadas</mark>
 > As funções nitrogenadas possuem o átomo de nitrogênio (N) na cadeia carbônica 
 
-### Amina
+### <mark style="background: #ADCCFFA6;">Amina</mark>
 >Constituída de compostos orgânicos nitrogenados derivados da amônia (NH₃) em que se introduz um átomo de nitrogênio na cadeia carbônica
 
 #### Nomenclatura
@@ -394,7 +392,7 @@ CCCNCCC
 > O mesmo vale para *amidas terciárias*
 
 
-### Amida
+### <mark style="background: #ADCCFFA6;">Amida</mark>
 > Quando o radical amida é ligado à cadeia carbônica
 
 *Radical amida*:
@@ -448,7 +446,7 @@ CCC(=O)(NCC)(C)
 ```
 
 
-### Nitrocompostos
+### <mark style="background: #ADCCFFA6;">Nitrocompostos</mark>
 > Corresponde ao grupo que tem o grupo funcional *nitro* (NO₂) ligado a uma cadeia carbônica.
 
 #### Nomenclatura
@@ -476,7 +474,7 @@ C1([N+](=O)(O-))C2(CC)CCCC1
 ```
 
 
-### Nitrila/Cianetos
+### <mark style="background: #ADCCFFA6;">Nitrila/Cianetos</mark>
 > Ocorre quando há um radical nitrila (C≡N) ligado à cadeia carbônica.
 #### Nomenclatura
 **Oficialmente, se pega o nome do hidrocomposto da cadeia mais longa e adiciona-se o sufixo -trila, mas usualmente apenas se separa o radical e antecede o que sobra com "cianeto de", substituindo o sufixo por -ila**
@@ -508,8 +506,8 @@ c1ccccc1(C#N)
 ```
 
 
-## Funções nitrogenadas
-### Haleto de alquila
+## <mark style="background: #D2B3FFA6;">Funções nitrogenadas</mark>
+### <mark style="background: #ABF7F7A6;">Haleto de alquila</mark>
 >Ocorre quando um halogênio se liga à uma cadeia carbônica
 #### Nomenclatura
 
@@ -539,7 +537,7 @@ C(F)(Cl)C(F)(Cl)
 ```
 
 
-### Haleto de arila
+### <mark style="background: #ABF7F7A6;">Haleto de arila</mark>
 > Se trato do composto orgânico que possui o halogênio ligado diretamente a um anel benzênico
 
 #### Nomenclatura
