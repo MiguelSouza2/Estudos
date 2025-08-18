@@ -1,5 +1,3 @@
-
-![[image-2.png|693x408]]
-
+![[Ciências Humanas/História/História do Brasil/Ditadura Militar/img/image-2.png]]
 
 Conhecido popularmente como **Jango**, foi um advogado, agropecuarista e político brasileiro, que serviu como 24.º presidente do Brasil, de *7 de setembro de 1961* a *2 de abril de 1964*, quando foi deposto por um golpe militar. Anteriormente foi o 14.º vice-presidente do Brasil de *31 de janeiro de 1956* a *25 de agosto de 1961*, sob os presidentes Juscelino Kubitschek e Jânio Quadros. Foi o primeiro político reeleito para um segundo mandato consecutivo no mesmo cargo executivo federal, Jango é considerado um dos principais expoentes do trabalhismo no Brasil, sua presidência foi marcada por uma intensa polarização política e social, com propostas de Reformas de Base que visavam profundas transformações estruturais no Brasil, Jango faleceu no exílio na Argentina
