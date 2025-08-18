@@ -20,7 +20,7 @@ Mais sobre o Ciclo do Carbono em: [[Ciclos Biogeoquímicos]]
 $$CH_4 = gás\: metano$$
 O Carbono pode se ligar de formas diferentes: simples, duplas ou triplas ligações:
 
-![[image.png]]
+![[iso-funcao.png]]
 
 Por conta de seu baixo raio atômico, ele  é capaz de formar diversas cadeias carbônicas, o que acarreta numa diversidade de vários compostos.
 

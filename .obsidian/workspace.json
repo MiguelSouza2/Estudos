@@ -22,21 +22,16 @@
             }
           },
           {
-            "id": "7c742b4ebfee1164",
+            "id": "e6c6a6678224b776",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,27 +191,36 @@
       "media-extended:Open media": false
     }
   },
-  "active": "7c742b4ebfee1164",
+  "active": "4b08c265ec393090",
   "lastOpenFiles": [
+    "Excalidraw/desktop.ini",
+    "Untitled.canvas",
+    "2025-08-17.md",
+    "Excalidraw/Drawing 2025-08-17 11.17.30.excalidraw.md",
     "Ciências Humanas/Filosofia/Filosofia Antiga/Filosofia Antiga.md",
+    "Excalidraw",
     "conflict-files-obsidian-git.md",
+    "Ciências da Natureza/Química/Química Orgânica/Classificação das Cadeias Carbônicas/desktop.ini",
+    "Ciências da Natureza/Química/Química Orgânica/Isomeria/img/trans.webp",
+    "Ciências da Natureza/Química/Química Orgânica/Isomeria/img/sintese-da-ureia.webp",
+    "Ciências da Natureza/Química/Química Orgânica/Isomeria/img/isomeria_a_ptica_2.webp",
+    "Ciências da Natureza/Química/Química Orgânica/Isomeria/img/isomeriaposicao-0.webp",
+    "Ciências da Natureza/Química/Química Orgânica/Isomeria/img/isomeria-plana-cadeia.webp",
+    "Ciências da Natureza/Química/Química Orgânica/Isomeria/img/iso-compensacao.png",
+    "Ciências da Natureza/Química/Química Orgânica/Isomeria/img/iso-funcao.png",
+    "Ciências da Natureza/Química/Química Orgânica/Isomeria/img/cis.webp",
+    "Ciências da Natureza/Química/Química Orgânica/Isomeria/img",
+    "Ciências da Natureza/Química/Química Orgânica/Isomeria/Isomeria.md",
+    "Ciências da Natureza/Química/Química Orgânica/Classificação das Cadeias Carbônicas/Classificação das Cadeias Carbônicas.md",
+    "Ciências da Natureza/Química/Química Orgânica/Classificação das Cadeias Carbônicas",
     "Ciências Humanas/Filosofia/Filosofia Antiga/Imgs/Captura de tela 2025-08-15 130525 1.png",
     "Ciências Humanas/História/História do Brasil/Ditadura Militar/João Goulart.md",
     "Ciências Humanas/História/História do Brasil/Ditadura Militar/Direitas já.md",
     "Ciências Humanas/História/História do Brasil/Ditadura Militar/José Sarney.md",
     "Ciências Humanas/História/História do Brasil/Ditadura Militar/img/Pasted image 20250815194031.png",
-    "Ciências Humanas/História/História do Brasil/Ditadura Militar/img/Pasted image 20250815193904.png",
     "Ciências Humanas/História/História do Brasil/Ditadura Militar/img",
-    "Ciências da Natureza/Química/Química Orgânica/Reações Orgânicas/img/subs-sulfur.png",
-    "Ciências da Natureza/Química/Química Orgânica/Reações Orgânicas/img/subs-nitro.png",
-    "Ciências da Natureza/Química/Química Orgânica/Reações Orgânicas/img/subs-halo.png",
-    "Ciências da Natureza/Química/Química Orgânica/Reações Orgânicas/img/reacao-adicao.png",
-    "Ciências da Natureza/Química/Química Orgânica/Reações Orgânicas/img/reacao-adicao-hidro.png",
-    "Ciências da Natureza/Química/Química Orgânica/Reações Orgânicas/img/reacao-adicao-halo.png",
-    "Ciências da Natureza/Química/Química Orgânica/Reações Orgânicas/img/oxi-alco.png",
     "Ciências da Natureza/Química/Química Orgânica/Reações Orgânicas/img",
     "Ciências Humanas/História/História do Brasil/Ditadura Militar/Ditadura Militar no Brasil-Rodrigues.md",
-    "Untitled.canvas",
     "Ciências Humanas/Filosofia/Filosofia Antiga/Aristóteles.md",
     "Ciências Humanas/História/História do Brasil/Ditadura Militar/Tancredo Neves.md",
     "Ciências Humanas/História/História do Brasil/Ditadura Militar/Ditadura Militar no Brasil.md",
@@ -233,16 +237,8 @@
     "Ciências da Natureza/Química/Química Orgânica/Carbono/Carbono.md",
     "Ciências da Natureza/Química/Química Orgânica/Funções Orgânicas/Funções Orgânicas.md",
     "Ciências da Natureza/Química/Química Geral/Misturas/Misturas.md",
-    "Ciências Humanas/História/Movimentos Sociais e Direitos Humanos/Untitled 2.md",
-    "Ciências da Natureza/Química/Química Geral/Modelos atômicos/Modelos Atômicos.md",
-    "README.md",
-    "Ciências da Natureza/Química/Química Geral/Tabela Periódica/Tabela Periódica.md",
     "Ciências da Natureza/Química/Química Inorgânica/Reações Inorgânicas/desktop.ini",
     "Ciências da Natureza/Química/Química Inorgânica/pH e pOH/desktop.ini",
-    "Ciências da Natureza/Química/Química Inorgânica/Funções Inorgânicas/desktop.ini",
-    "Ciências da Natureza/Química/Química Geral/Ligações Químicas/desktop.ini",
-    "Ciências da Natureza/Química/Química Ambiental/desktop.ini",
-    "Ciências da Natureza/Química/Físico Química/Ácidos e bases/desktop.ini",
-    "Ciências da Natureza/Química/Físico Química/Termoquímica/desktop.ini"
+    "Ciências da Natureza/Química/Química Inorgânica/Funções Inorgânicas/desktop.ini"
   ]
 }
