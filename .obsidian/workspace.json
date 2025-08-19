@@ -21,12 +21,14 @@
             "id": "c216ee6dcce7f064",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.10"
+                "file": "Ciências Humanas/História/História do Brasil/Era Vargas/Era Vargas.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.10"
+              "icon": "lucide-file",
+              "title": "Era Vargas"
             }
           },
           {
@@ -205,17 +207,18 @@
   },
   "active": "c216ee6dcce7f064",
   "lastOpenFiles": [
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Empédocles.md",
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Anaxímenes.md",
+    "Ciências Humanas/História/História do Brasil/Era Vargas/queremismo.md",
     "Ciências Humanas/História/História do Brasil/Era Vargas/oligarquia paulista.md",
     "Ciências Humanas/História/História do Brasil/Era Vargas/Era Vargas.md",
+    "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Epicuro.md",
+    "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Empédocles.md",
+    "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Diógenes.md",
+    "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Anaxímenes.md",
     "conflict-files-obsidian-git.md",
     "Ciências Humanas/História/História do Brasil/República Velha/República Velha.md",
-    "Ciências Humanas/História/História do Brasil/Era Vargas/queremismo.md",
     "Ciências da Natureza/Química/Química Inorgânica/pH e pOH/pH e pOH.md",
     "Ciências Humanas/Filosofia/Filosofia Antiga/Filosofia Antiga.md",
     "Ciências Humanas/Filosofia/Filosofia Antiga/Imgs/doces.png",
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Diógenes.md",
     "Ciências Humanas/Filosofia/Filosofia Antiga/Imgs/alex e dio.png",
     "Ciências Humanas/Filosofia/Filosofia Antiga/Imgs/Not Dio.png",
     "image-3.png",
@@ -240,7 +243,6 @@
     "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Tales de Mileto.md",
     "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Sócrates.md",
     "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Protágoras.md",
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Platão.md",
     "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos",
     "Untitled 1.canvas",
     "Excalidraw/desktop.ini",
