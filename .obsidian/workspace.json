@@ -11,14 +11,22 @@
             "id": "4b08c265ec393090",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "c216ee6dcce7f064",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
               "state": {
-                "file": "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Empédocles.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.9.10"
               },
-              "icon": "lucide-file",
-              "title": "Empédocles"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
             }
           },
           {
@@ -109,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Anaxímenes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Anaxímenes"
+              "title": "Backlinks"
             }
           },
           {
@@ -128,12 +135,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Anaxímenes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Anaxímenes"
+              "title": "Outgoing links"
             }
           },
           {
@@ -185,6 +191,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -196,8 +203,10 @@
       "media-extended:Open media": false
     }
   },
-  "active": "83dbd17ae5519a4a",
+  "active": "c216ee6dcce7f064",
   "lastOpenFiles": [
+    "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Empédocles.md",
+    "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Anaxímenes.md",
     "Ciências Humanas/História/História do Brasil/Era Vargas/oligarquia paulista.md",
     "Ciências Humanas/História/História do Brasil/Era Vargas/Era Vargas.md",
     "conflict-files-obsidian-git.md",
@@ -205,7 +214,6 @@
     "Ciências Humanas/História/História do Brasil/Era Vargas/queremismo.md",
     "Ciências da Natureza/Química/Química Inorgânica/pH e pOH/pH e pOH.md",
     "Ciências Humanas/Filosofia/Filosofia Antiga/Filosofia Antiga.md",
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Empédocles.md",
     "Ciências Humanas/Filosofia/Filosofia Antiga/Imgs/doces.png",
     "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Diógenes.md",
     "Ciências Humanas/Filosofia/Filosofia Antiga/Imgs/alex e dio.png",
@@ -213,7 +221,6 @@
     "image-3.png",
     "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Demócrito.md",
     "Ciências Humanas/Filosofia/Filosofia Antiga/Imgs/abdera.png",
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Anaxímenes.md",
     "Ciências Humanas/Filosofia/Filosofia Antiga/Imgs/demo.png",
     "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Aristóteles.md",
     "Ciências Humanas/História/História do Brasil/Ditadura Militar/Ditadura Militar no Brasil.md",
