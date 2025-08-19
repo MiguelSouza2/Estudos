@@ -45,10 +45,13 @@ Abaixo as principais escolas filosóficas existentes
 
 ## ***Principais Filósofos da Antiguidade:***
 
+
+* [[Anaximandro]] (610 a.C.- 547 a. C.)
+* [[Anaxímenes]] (588-524 a.C.)
 - [[Aristóteles]]: (384 a.C.-322 a.C.) 
-* [[Demócrito]]:
-- [[Diógenes]]:
-- [[Empédocles]]:
+* [[Demócrito]]: (460 a.C- 370 a.C.)
+- [[Diógenes]]: (413 a.C.- 327 a.C)
+- [[Empédocles]]: (490 a.C.- 430 a.C.)
 - [[Epicuro]]:
 - [[Górgias]]:
 - [[Heráclito]]:

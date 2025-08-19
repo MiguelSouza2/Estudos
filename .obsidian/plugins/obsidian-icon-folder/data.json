@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "❔",
       "LiVerified",
       "LiBrain",
       "🇧🇷",
-      "LiBaseline",
-      "🤔"
+      "LiBaseline"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -94,6 +94,10 @@
   "Ciências da Natureza/Química/Química Orgânica/Funções Orgânicas": "LiVerified",
   "Ciências da Natureza/Química/Química Orgânica/Reações Orgânicas": "LiVerified",
   "Ciências da Natureza/Química/Química Orgânica/Isomeria": "LiVerified",
-  "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Aristóteles.md": "🤔",
-  "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Anaximandro.md": "🤔"
+  "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Aristóteles.md": "❔",
+  "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Anaximandro.md": "❔",
+  "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Anaxímenes.md": "❔",
+  "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Demócrito.md": "❔",
+  "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Diógenes.md": "❔",
+  "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Empédocles.md": "❔"
 }
