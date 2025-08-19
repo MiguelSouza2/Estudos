@@ -25,14 +25,14 @@
             "id": "83dbd17ae5519a4a",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Ciências Humanas/História/História do Brasil/Era Vargas/Era Vargas.md",
-                "bFile": "Ciências Humanas/História/História do Brasil/Era Vargas/Era Vargas.md",
-                "aRef": ""
+                "file": "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Anaxímenes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Era Vargas"
+              "icon": "lucide-file",
+              "title": "Anaxímenes"
             }
           }
         ],
@@ -109,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Anaxímenes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Anaxímenes"
             }
           },
           {
@@ -127,11 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Anaxímenes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Anaxímenes"
             }
           },
           {
