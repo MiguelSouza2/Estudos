@@ -30,7 +30,7 @@ Dentre essas reflexões,  juntamente com o poder da palavra e da razão (logos) 
 
 - **Período Socrático** (séculos V a IV a.C.): também conhecido como período clássico, nesse período surge a democracia na Grécia Antiga. Seu maior representante foi o filósofo grego [[Sócrates]] que começa a pensar sobre o **<mark style="background: #ADCCFFA6;">ser humano</mark>**. Além dele, merecem destaque: [[Aristóteles]] e [[Platão]].
 
-- **Período Helenístico** (séculos IV a.C. a VI d.C.): Além de temas relacionados com a natureza e o homem, nessa fase os estudos estão voltados para a realização humana por meio das virtudes e da <mark style="background: #ADCCFFA6;">busca da felicidade</mark>.
+- **Período Helenístico** (séculos IV a.C. a VI d.C.): Além de temas relacionados com a natureza e o homem, nessa fase os estudos estão voltados para a <mark style="background: #ADCCFFA6;">realização humana por meio das virtudes e da busca da felicidade</mark>.
 
 ![[Captura de tela 2025-08-15 130525 1.png|700x471]]
 
@@ -41,3 +41,23 @@ Abaixo as principais escolas filosóficas existentes
 
 
 - **Escola <mark style="background: #CACFD9A6;">Itálica</mark>**: foi desenvolvida na atual região do sul da Itália (na cidade de Elei) e da Sicília (nas cidades de Aeragas e Lentini). Destacam-se os filósofos Parmênides, Zenão, Empédocles e Górgias.
+
+
+## ***Principais Filósofos da Antiguidade:***
+
+- [[Aristóteles]]: (384 a.C.-322 a.C.) 
+* [[Demócrito]]:
+- [[Diógenes]]:
+- [[Empédocles]]:
+- [[Epicuro]]:
+- [[Górgias]]:
+- [[Heráclito]]:
+- [[Parmênides]]:
+- [[Pirro]]:
+- [[Platão]]:
+- [[Pitágoras]]:
+- [[Protágoras]]:
+- [[Sócrates]]:
+- [[Tales de Mileto]]:
+- [[Zenão de Cítio]]:
+- [[Zenão de Eleia]]:

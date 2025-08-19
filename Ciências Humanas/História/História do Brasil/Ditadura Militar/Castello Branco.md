@@ -1,6 +1,5 @@
- 
- ![[image-1.png]]
 
+ ![[Ciências Humanas/História/História do Brasil/Ditadura Militar/img/image-1.png]]
 
 Humberto de Alencar Castello Branco foi um general exército brasileiro que foi o  26.º  presidente do Brasil, o primeiro do período da ditadura militar tendo sido um dos articuladores do golpe militar de *1964*. 
 
