@@ -25,10 +25,14 @@
             "id": "83dbd17ae5519a4a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Ciências Humanas/História/História do Brasil/Era Vargas/Era Vargas.md",
+                "bFile": "Ciências Humanas/História/História do Brasil/Era Vargas/Era Vargas.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Era Vargas"
             }
           }
         ],
@@ -192,11 +196,11 @@
   },
   "active": "83dbd17ae5519a4a",
   "lastOpenFiles": [
+    "Ciências Humanas/História/História do Brasil/Era Vargas/oligarquia paulista.md",
+    "Ciências Humanas/História/História do Brasil/Era Vargas/Era Vargas.md",
     "conflict-files-obsidian-git.md",
     "Ciências Humanas/História/História do Brasil/República Velha/República Velha.md",
     "Ciências Humanas/História/História do Brasil/Era Vargas/queremismo.md",
-    "Ciências Humanas/História/História do Brasil/Era Vargas/oligarquia paulista.md",
-    "Ciências Humanas/História/História do Brasil/Era Vargas/Era Vargas.md",
     "Ciências da Natureza/Química/Química Inorgânica/pH e pOH/pH e pOH.md",
     "Ciências Humanas/Filosofia/Filosofia Antiga/Filosofia Antiga.md",
     "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Empédocles.md",
