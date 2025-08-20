@@ -39,6 +39,11 @@ Ser vosso melhor amigo, sendo um bom amigo para os outros.%%
 
 Epicuro fazia oposição à Academia de Platão e ao Liceu de [[Aristóteles]], buscando uma filosofia mais prática que correspondesse a seu tempo. Fundou sua própria escola, chamada "Jardim", onde pregava um bom relacionamento entre mestres e discípulos seguindo as comandas apresentadas acima;
 
+## Paradoxo de Epicuro
+
+Diz-se que ao perguntar sobre a existência do mal, Epicuro respondeu aos seus discípulos dessa maneira, criando o **Paradoxo de Epicuro**, onde se é questionado sobre a existência, poder e bondade de Deus;
+![[curo paradox.png]]
+
 [^1]: Eu não encontrei algo sobre, mas poderia se dizer em tese uma teoria sobre a formação de energia dos núcleos atômicos, mas o máximo parecido que eu encontrei foi isso:
 	https://razaoinadequada.com/2022/05/19/epicuro-atomos
 	
