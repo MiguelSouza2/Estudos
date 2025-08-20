@@ -1,4 +1,4 @@
-**Anaxímenes** (588-524 a.C.), nascido em Mileto (atual Turquia), foi um filósofo pré-socrático grego integrante da Escola Jônica. Além dele, na escola pré-socrática destacam-se [[Tales de Mileto]] e [[Anaximandro]]
+**Anaxímenes** (588-524 a.C.), nasceu em Mileto (atual Turquia), foi um filósofo pré-socrático grego que participou como integrante da Escola Jônica. Além dele, nessa escola se destacam [[Tales de Mileto]] e [[Anaximandro]]
 
 ![[menes.png|Escultura de Anaxímenes]]
 
