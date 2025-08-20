@@ -6,7 +6,7 @@ Seu pensamento influenciou a filosofia da antiguidade bem como a filosofia moder
 
 Parmênides nasceu em 510 a.C. na cidade grega de Eleia (atual Itália), situada na região da Magna Grécia.
 
-Filho de uma família abastada, o filósofo teve uma boa educação. Visto seu interesse pela filosofia, se aproximou das ideias de [[Pitágoras]] e da Escola Fundada por ele: a Escola Pitagórica.
+Filho de uma família abastada, o filósofo teve uma boa educação. Visto seu interesse pela filosofia, se aproximou das ideias de [[Pitágoras de Samos]] e da Escola Fundada por ele: a Escola Pitagórica.
 
 No entanto, não se aprofundou nas questões discutidas pelos pitagóricos, fundando uma Escola em sua cidade natal: **Escola Eleática**. Além dele, no grupo destacou-se o filósofo [[Zenão de Eleia]] seu discípulo. Parmênides faleceu por volta de 470 a.C.
 
@@ -22,7 +22,7 @@ Enquanto o segundo, denominado de “caminho da verdade” (_alétheia_) é cond
 
 ## Parmênides e Heráclito: Diferenças em teses
 
-[[Heráclito]] foi também um filósofo pré-socrático considerado o “Pai da Dialética”. Segundo ele, o mundo está em constante transformação num estágio que chamou de “devir”. Em suas palavras: “_Nada é permanente, exceto a mudança_”.
+[[Heráclito de Éfeso]] foi também um filósofo pré-socrático considerado o “Pai da Dialética”. Segundo ele, o mundo está em constante transformação num estágio que chamou de “devir”. Em suas palavras: “_Nada é permanente, exceto a mudança_”.
 
 Por outro lado, Parmênides refuta as ideias de Heráclito acrescentado que nada muda, tudo é uno. Ou seja, a mudança (o devir, o vir a ser) é uma ilusão dos sentidos que está pautada no _doxa_ (opinião).
 

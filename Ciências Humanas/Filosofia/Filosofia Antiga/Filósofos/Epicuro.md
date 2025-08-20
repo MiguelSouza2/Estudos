@@ -1,6 +1,6 @@
 Ele foi um filósofo grego que viveu no período Helenístico. era conhecido como o Profeta do Prazer e o Apóstolo da Amizade. Epicuro também foi o primeiro a sugerir o que seria futuramente conhecido como a teoria darwiniana, ao apresentar um **esboço da teoria da evolução**, 2.300 anos antes de Darwin.
 ![[curo.png|Busto de Epicuro|305x378]]
-Nasceu na ilha de Samos, na Grécia, em 341 a.C. Estudou filosofia, foi aluno de Pânfilo, um dos seguidores das ideias de [[Platão]], das quais Epicuro rejeitava. Mudou-se para Téos, onde tece os primeiros contatos com a teoria atômica, pregada por Nausífanes, discípulo de [[Demócrito]].
+Nasceu na ilha de Samos, na Grécia, em 341 a.C. Estudou filosofia, foi aluno de Pânfilo, um dos seguidores das ideias de [[Platão]], das quais Epicuro rejeitava. Mudou-se para Téos, onde tece os primeiros contatos com a teoria atômica, pregada por Nausífanes, discípulo de [[Demócrito de Abdera]].
 
 Embora ele aceitasse o materialismo atomista, ele em si rejeitava sua ideia de mecanismo absoluto. Ele utilizou a **Teoria Atômica** de Demócrito para justificar que o átomo, além de ser um elemento formador de todas as coisas, poderia formar outros corpos até mesmo por sua morte física[^1];
 

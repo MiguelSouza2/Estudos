@@ -1,14 +1,14 @@
-**Anaxímenes** (588-524 a.C.), nasceu em Mileto (atual Turquia), foi um filósofo pré-socrático grego que participou como integrante da Escola Jônica. Além dele, nessa escola se destacam [[Tales de Mileto]] e [[Anaximandro]]
+**Anaxímenes** (588-524 a.C.), nasceu em Mileto (atual Turquia), foi um filósofo pré-socrático grego que participou como integrante da Escola Jônica. Além dele, nessa escola se destacam [[Tales de Mileto]] e [[Anaximandro de Mileto]]
 
 ![[menes.png|Escultura de Anaxímenes]]
 
 Os temas desenvolvidos por eles estavam centrados na **natureza**. O intuito era desvendar os mistérios da existência, classificando um elemento como gerador do cosmo e da vida. Essa postura foi chamada de **materialismo monista**.
 
-Para [[Tales de Mileto]], o elemento essencial era a água (_arché_). Já para [[Anaximandro]], mestre de Anaxímenes, a massa geradora de todos os seres era representada pela união dos quatro elementos (terra, fogo, ar e água) denominado de “_ápeiron_”.
+Para [[Tales de Mileto]], o elemento essencial era a água (_arché_). Já para [[Anaximandro de Mileto]], mestre de Anaxímenes, a massa geradora de todos os seres era representada pela união dos quatro elementos (terra, fogo, ar e água) denominado de “_ápeiron_”.
 
 Já para Anaxímenes, o elemento primordial era o **ar**, o princípio de todas as coisas.
 
-Anaxímenes foi discípulo de[[Anaximandro]], no entanto, não concordava com seu mestre sobre o conceito do “_ápeiron_”, e nem com [[Tales de Mileto]] e seu conceito de “_arché_”.
+Anaxímenes foi discípulo de[[Anaximandro de Mileto]], no entanto, não concordava com seu mestre sobre o conceito do “_ápeiron_”, e nem com [[Tales de Mileto]] e seu conceito de “_arché_”.
 
 Sua opinião era que o primeiro era muito abstrato (_ápeiron_), e o segundo muito palpável (água, o _arché_).
 

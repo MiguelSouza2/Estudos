@@ -22,7 +22,7 @@ Demócrito de Abdera foi um dos maiores sábios e escritores da antiguidade. Con
 - Pequena ordem do mundo
 - Do entendimento
 - Do bom ânimo
-- [[Pitágoras]]
+- [[Pitágoras de Samos]]
 - Da forma
 - Preceitos
 
