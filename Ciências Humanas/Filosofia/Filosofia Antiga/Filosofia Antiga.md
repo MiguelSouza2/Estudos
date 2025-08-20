@@ -46,14 +46,14 @@ Abaixo as principais escolas filosóficas existentes
 ## ***Principais Filósofos da Antiguidade:***
 
 
-* [[Anaximandro]] (610 a.C.- 547 a. C.)
-* [[Anaxímenes]] (588-524 a.C.)
-- [[Aristóteles]]: (384 a.C.-322 a.C.) 
-* [[Demócrito]]: (460 a.C- 370 a.C.)
-- [[Diógenes]]: (413 a.C.- 327 a.C)
-- [[Empédocles]]: (490 a.C.- 430 a.C.)
-- [[Epicuro]]: (341 a.C.-271 a.C.
-- [[Górgias]]:
+* [[Anaximandro]] (610 a.C.- 547 a. C.) 63 anos;
+* [[Anaxímenes]] (588-524 a.C.) 64 anos;
+- [[Aristóteles]]: (384 a.C.-322 a.C.) 62 anos;
+* [[Demócrito]]: (460 a.C- 370 a.C.) 90 anos;
+- [[Diógenes]]: (413 a.C.- 327 a.C) 86 anos;
+- [[Empédocles]]: (490 a.C.- 430 a.C.) 60 anos;
+- [[Epicuro]]: (341 a.C.-271 a.C.) 70 anos;
+- [[Górgias]]: (487 a.C.-380 a.C ) 107 anos;
 - [[Heráclito]]:
 - [[Parmênides]]:
 - [[Pirro]]:
