@@ -54,7 +54,7 @@ Abaixo as principais escolas filosóficas existentes
 - [[Empédocles]]: (490 a.C.- 430 a.C.) 60 anos;
 - [[Epicuro]]: (341 a.C.-271 a.C.) 70 anos;
 - [[Górgias]]: (487 a.C.-380 a.C ) 107 anos;
-- [[Heráclito]]:
+- [[Heráclito]]: (540 a.C -  
 - [[Parmênides]]:
 - [[Pirro]]:
 - [[Platão]]:
