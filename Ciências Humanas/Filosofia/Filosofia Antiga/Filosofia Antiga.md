@@ -52,7 +52,7 @@ Abaixo as principais escolas filosóficas existentes
 * [[Demócrito]]: (460 a.C- 370 a.C.)
 - [[Diógenes]]: (413 a.C.- 327 a.C)
 - [[Empédocles]]: (490 a.C.- 430 a.C.)
-- [[Epicuro]]:
+- [[Epicuro]]: (341 a.C.-271 a.C.
 - [[Górgias]]:
 - [[Heráclito]]:
 - [[Parmênides]]:
