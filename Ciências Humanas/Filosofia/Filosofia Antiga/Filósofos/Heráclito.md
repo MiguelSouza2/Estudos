@@ -34,3 +34,9 @@ Por exemplo, a escuridão somente existe, pois o conceito de luz é seu oposto, 
 - “_A sabedoria é a meta da alma humana; mas a pessoa, à medida que em seus conhecimentos avança, vê o horizonte do desconhecido cada vez mais longe._”
 - “_A guerra é mãe e rainha de todas as coisas; alguns transforma em deuses, outros, em homens; de alguns faz escravos, de outros, homens livres_.”
 - “_Sabedoria consiste em falar e agir da verdade. Aprendizagem muito não ensina compreensão. Todas as coisas vêm a seu tempo devido. O sol é novo a cada dia_.”
+
+---
+
+Notas do Autor: Eu não comentei sobre a morte dos filósofos até agora, e esse cara pode se dizer o motivo:
+
+link de acesso:https://brasilescola.uol.com.br/filosofia/heraclito.htm
