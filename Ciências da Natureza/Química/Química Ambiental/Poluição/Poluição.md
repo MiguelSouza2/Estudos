@@ -51,4 +51,30 @@ Considera-se como razoável, 20 microgramas de poluentes por metro cúbico. Em S
 * Barulho excessivo de indústrias, veículos, obras, aparelhos, etc.
 
 ### <mark style="color:#fff;background: #FF5582A6;">[ ! ]</mark> IMPORTANT
-> Para alguns ambientalistas, é considerada a forma de poluição mais prejudicial à saúde humana. Isso porque causa problemas auditivos, dor de cabeça, insônia, agitação e dificuldade de concentração.
+> Para alguns ambientalistas, é considerada a forma de poluição mais prejudicial à saúde humana. Isso porque causa problemas auditivos, dor de cabeça, insônia, agitação e dificuldade de concentração..
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

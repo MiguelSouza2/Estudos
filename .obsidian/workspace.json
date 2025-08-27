@@ -4,55 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "15a05e2ecedb824f",
+        "id": "1f3b39e85b21701d",
         "type": "tabs",
         "children": [
           {
-            "id": "a3c2f04de57e6727",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciências Humanas/História/História do Brasil/Era Vargas/Era Vargas.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Era Vargas"
-            }
-          },
-          {
-            "id": "f462e74320afc89c",
+            "id": "00f91fff141ffec9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciências Humanas/História/História do Brasil/Era Vargas/Oligarquia paulistana.md",
+                "file": "Ciências da Natureza/Química/Química Orgânica/Funções Orgânicas/Funções Orgânicas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Oligarquia paulistana"
-            }
-          },
-          {
-            "id": "741c5037a920a10c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciências Humanas/História/História do Brasil/Era Vargas/Queremismo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Queremismo"
+              "title": "Funções Orgânicas"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -75,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -125,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ciências da Natureza/Química/Química Orgânica/Funções Orgânicas/Funções Orgânicas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Funções Orgânicas"
             }
           },
           {
@@ -143,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ciências da Natureza/Química/Química Orgânica/Funções Orgânicas/Funções Orgânicas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Funções Orgânicas"
             }
           },
           {
@@ -171,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LINKS PARA CARLA.md",
+                "file": "Ciências da Natureza/Química/Química Orgânica/Funções Orgânicas/Funções Orgânicas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of LINKS PARA CARLA"
+              "title": "Outline of Funções Orgânicas"
             }
           },
           {
@@ -199,65 +170,65 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
       "media-extended:Open media": false
     }
   },
-  "active": "f462e74320afc89c",
+  "active": "00f91fff141ffec9",
   "lastOpenFiles": [
-    "Ciências Humanas/História/História do Brasil/Era Vargas/Queremismo.md",
-    "Ciências Humanas/História/História do Brasil/Era Vargas/Oligarquia paulistana.md",
-    "Ciências Humanas/História/História do Brasil/Era Vargas/Era Vargas.md",
-    "Ciências Humanas/História/História do Brasil/Nova República/Untitled 2.md",
-    "Ciências Humanas/História/História do Brasil/Independência e Império/Untitled 2.md",
-    "Ciências Humanas/História/História do Brasil/Era Vargas/Intentona Comunista.md",
-    "Ciências Humanas/História/História do Brasil/Era Vargas/Grande Depressão.md",
-    "Ciências Humanas/História/História do Brasil/Era Vargas/Untitled 2.md",
-    "Ciências Humanas/História/História do Brasil/Era Vargas/img/image-5 2.png",
-    "Ciências Humanas/História/História do Brasil/Era Vargas/img/image-5.png",
-    "Ciências Humanas/História/História do Brasil/Era Vargas/img/image-5 1.png",
+    "Ciências da Natureza/Química/Química Orgânica/Funções Orgânicas/Funções Orgânicas-Rodrigues.md",
+    "Ciências da Natureza/Química/Química Orgânica/Funções Orgânicas/Funções Orgânicas.md",
+    "Ciências da Natureza/Química/Química Orgânica/Isomeria/Isomeria.md",
+    "Ciências da Natureza/Química/Química Orgânica/Reações Orgânicas/Reações Orgânicas.md",
+    "Ciências da Natureza/Química/Química Geral/Propriedades Periódicas/Propriedades Periódicas.md",
+    "Ciências da Natureza/Química/Química Geral/Propriedades Periódicas/img/afinidade_eletra_nica_1.webp",
+    "Ciências da Natureza/Química/Química Ambiental/Poluição/Poluição.md",
+    "Ciências da Natureza/Química/Química Ambiental/Mudanças Climáticas/Mudanças climáticas.md",
+    "Ciências da Natureza/Química/Química Ambiental/Efeito Estufa/Efeito Estufa.md",
+    "Ciências da Natureza/Química/Química Ambiental/Combustíveis Fósseis/Combustíveis Fósseis.md",
+    "Ciências da Natureza/Química/Química Ambiental/Chuva Ácida/Chuva Ácida.md",
+    "Ciências da Natureza/Química/Físico Química/Ácidos e bases/Ácidos e bases.md",
+    "Ciências Humanas/Filosofia/Filosofia Antiga/Imgs/abdera.png",
+    "2025-08-25.md",
+    "image-4.png",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "image-3.png",
+    "Ciências Humanas/Filosofia/Filosofia Antiga/Imgs/alex e dio.png",
+    "image-2.png",
+    "image.png",
+    "Ciências Humanas/Filosofia/Filosofia Antiga/Filosofia Antiga.md",
+    "Ciências Humanas/Filosofia/Filosofia Antiga/Sócrates.md",
+    "Ciências Humanas/Filosofia/Filosofia Antiga/Tales de Mileto.md",
+    "Ciências Humanas/Filosofia/Filosofia Antiga/Platão.md",
+    "Ciências Humanas/Filosofia/Filosofia Antiga/Aristóteles.md",
+    "Ciências Humanas/Filosofia/Filosofia Antiga/Imgs/Captura de tela 2025-08-15 130525 1.png",
+    "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Zenão de Cítio.md",
+    "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Tales de Mileto.md",
+    "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Sócrates.md",
+    "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Protágoras.md",
+    "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Platão.md",
+    "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Pitágoras de Samos.md",
+    "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Pirro de Élida.md",
+    "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Parmênides de Eleia.md",
+    "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Heráclito de Éfeso.md",
+    "Ciências Humanas/Filosofia/Filosofia Antiga/Imgs/Ana.png",
+    "Ciências Humanas/Filosofia/Filosofia Antiga/Imgs/calcis.png",
     "Ciências Humanas/História/História do Brasil/Era Vargas/img",
-    "Ciências Humanas/História/História do Brasil/Ditadura Militar/Castello Branco.md",
-    "Ciências Humanas/História/História do Brasil/Ditadura Militar/Direitas já.md",
-    "Ciências Humanas/História/História do Brasil/Ditadura Militar/Ditadura Militar no Brasil.md",
-    "Ciências Humanas/História/História do Brasil/Ditadura Militar/João Goulart.md",
-    "Ciências Humanas/História/História do Brasil/Ditadura Militar/Tancredo Neves.md",
-    "Ciências Humanas/História/História do Brasil/Ditadura Militar/José Sarney.md",
-    "Ciências Humanas/História/História do Brasil/Ditadura Militar/Emenda Dante de Oliveira.md",
     "Sem título 3.canvas",
     "Sem título 2.canvas",
     "Sem título 1.canvas",
-    "2025-08-25.md",
-    "Ciências Humanas/História/Principais Conflitos Históricos/Segunda Guerra Mundial/Segunda Guerra Mundial.md",
     "Sem título.canvas",
-    "Excalidraw/Drawing 2025-08-17 11.17.30.excalidraw.md",
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Tales de Mileto.md",
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Platão.md",
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Filosofia Antiga.md",
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Aristóteles.md",
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Pitágoras de Samos.md",
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Parmênides de Eleia.md",
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Heráclito de Éfeso.md",
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Empédocles.md",
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Imgs/pi.png",
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Imgs/pirro.png",
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Imgs/Parmesao.png",
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Imgs/Hera.png",
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Imgs/Gorgias.png",
-    "image-4.png",
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Imgs/curo paradox.png",
     "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos",
-    "Untitled 1.canvas",
     "Excalidraw/desktop.ini",
-    "Untitled.canvas",
     "Excalidraw",
     "Ciências da Natureza/Química/Química Orgânica/Classificação das Cadeias Carbônicas/desktop.ini",
     "Ciências da Natureza/Química/Química Orgânica/Isomeria/img",
