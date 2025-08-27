@@ -4,7 +4,9 @@ Escreveu uma série de obras que falavam sobre política, ética, moral e outro 
 
 ## Biografia de Aristóteles
 
-Aristóteles nasceu em Estagira, na Macedônia, em 384 a.C. Com 17 anos, partiu para Atenas e começou a frequentar a Academia de Platão. Por conta do local de seu nascimento o autor é chamado comumente de "o Estagirita".![[image.png|Estagira pelo Google Maps]]
+Aristóteles nasceu em Estagira, na Macedônia, em 384 a.C. Com 17 anos, partiu para Atenas e começou a frequentar a Academia de Platão. Por conta do local de seu nascimento o autor é chamado comumente de "o Estagirita".
+
+![[Estagira.png|Estagira pelo Google Maps]]
 
 De origem aristocrática, causou admiração pelo seu comportamento requintado e pela sua inteligência. Logo se tornou o discípulo predileto do mestre [[Platão]], que observou:
 
@@ -29,7 +31,7 @@ Em 323 a.C., com a morte de Alexandre Magno, rei da Macedônia, que então domin
 ![[Magno e Aris.png|Alexandre escuta atentamente seu preceptor Aristóteles]]
 
 
-Um ano depois, em 322 a.C., Aristóteles morreu em Cálcis, na Eubeia. Em seu testamento determinou a libertação dos seus escravos.![[image-1.png|Cálcis pelo Google Maps]]
+Um ano depois, em 322 a.C., Aristóteles morreu em Cálcis, na Eubeia. Em seu testamento determinou a libertação dos seus escravos.![[calcis.png|Cálcis pelo Google Maps]]
 
 A influência de Aristóteles sobre o desenvolvimento da Filosofia no mundo ocidental foi enorme, notavelmente na Filosofia Cristã de São Tomás de Aquino que ocorreu durante a Idade Média. 
 ## Platão e Aristóteles
