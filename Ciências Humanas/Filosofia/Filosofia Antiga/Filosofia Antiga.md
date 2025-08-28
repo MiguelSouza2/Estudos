@@ -57,8 +57,8 @@ Abaixo as principais escolas filosóficas existentes
 - [[Heráclito de Éfeso]]: (540 a.C - 470 a.C) 70 anos 😐😨😖
 - [[Parmênides de Eleia]]: (510 a.C - 470 a.C. ) 40 anos;
 - [[Pirro de Élida]]: (360 a.C. - 270 a.C) 90 anos;
-- [[Pitágoras de Samos]]:
-- [[Platão]]:
+- [[Pitágoras de Samos]]: (570 a.C. - 495 a.C) 75 anos;
+- [[Platão]]: (428 a.C.-347 a.C.)
 - [[Protágoras]]:
 - [[Sócrates]]:
 - [[Tales de Mileto]]:

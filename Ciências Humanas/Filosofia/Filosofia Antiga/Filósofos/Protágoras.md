@@ -1,0 +1,3 @@
+Protágoras (481-411 a.C.) foi um filósofo grego, um dos mais famosos sofistas da Grécia Antiga. Concentrava sua atenção nas questões de moral e política. É o autor da famosa frase: “O homem é a medida de todas as coisas”.
+
+Protágoras nasceu em Abdera, na Grécia, por volta do ano 481 a. C. Nesse período, estudado como Período Clássico (século V a.C. e IV a.C.), a civilização grega foi marcada por violentas lutas dos gregos contra os povos invasores (persas) e também entre si. Apesar disso, o século V a.C. foi considerado o apogeu da antiga civilização grega.
