@@ -1,9 +1,8 @@
-
+	
 O termo filosofia vem do grego *φιλοσοφία (Philosophía)* e significa “amor ao saber”, ou seja, a busca pela sabedoria.
 
 
 Correspondente ao surgimento da filosofia grega que ocorreu no período do *século VII  a.C*.
-
 Surgiu a partir da necessidade de *explicar o mundo de uma nova maneira*, na qual se buscava respostas mais racionais para explicar:
 
 - A origem das coisas;
@@ -50,17 +49,17 @@ Abaixo as principais escolas filosóficas existentes
 * [[Anaxímenes]] (588-524 a.C.) 64 anos;
 - [[Aristóteles]]: (384 a.C.-322 a.C.) 62 anos;
 * [[Demócrito de Abdera]]: (460 a.C- 370 a.C.) 90 anos;
-- [[Diógenes de Sínope]]: (413 a.C.- 327 a.C) 86 anos; 😐
-- [[Empédocles]]: (490 a.C.- 430 a.C.) 60 anos; 😐😨
-- [[Epicuro]]: (341 a.C.-271 a.C.) 70 anos; 😐
-- [[Górgias de Leontini]]: (487 a.C.-380 a.C ) 107 anos;
-- [[Heráclito de Éfeso]]: (540 a.C - 470 a.C) 70 anos 😐😨😖
-- [[Parmênides de Eleia]]: (510 a.C - 470 a.C. ) 40 anos;
+- [[Diógenes de Sínope]]: (413 a.C.- 327 a.C) 86 anos; 
+- [[Empédocles]]: (490 a.C.- 430 a.C.) 60 anos; 
+- [[Epicuro]]: (341 a.C.-271 a.C.) 70 anos; 
+- [[Górgias de Leontini]]: (487 a.C.-380 a.C ) <mark style="background: #BBFABBA6;">107 anos</mark>;
+- [[Heráclito de Éfeso]]: (540 a.C - 470 a.C) 70 anos 
+- [[Parmênides de Eleia]]: (510 a.C - 470 a.C. ) <mark style="background: #FF5582A6;">40 anos;</mark>
 - [[Pirro de Élida]]: (360 a.C. - 270 a.C) 90 anos;
 - [[Pitágoras de Samos]]: (570 a.C. - 495 a.C) 75 anos;
-- [[Platão]]: (428 a.C.-347 a.C.)
-- [[Protágoras]]:
-- [[Sócrates]]:
-- [[Tales de Mileto]]:
-- [[Zenão de Cítio]]:
-- [[Zenão de Eleia]]:
+- [[Platão]]: (428 a.C.-347 a.C.) 54 anos;
+- [[Protágoras]]: (481-411 a.C.) 70 anos;
+- [[Sócrates]]: (470 a.C.-399 a.C.) 71 anos;
+- [[Tales de Mileto]]: (623 a.C - 556 a.C) 67 anos;
+- [[Zenão de Cítio]]: (340 - 264 a.C.) 64 anos;
+- [[Zenão de Eleia]]: (488 a.C. - 430 a.C. ) 58 anos;
