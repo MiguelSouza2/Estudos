@@ -5,13 +5,41 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:\"Filosofia\"  ",
+      "query": "path:\"Ciências Humanas/Filosofia/Filosofia Antiga\"  ",
       "color": {
         "a": 1,
         "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"Ciências Humanas/História\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"Ciências da Natureza/Física\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"Ciências Humanas/Geografia\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:\"Ciências Humanas/Filosofia/Filosofia Medieval\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2874015
       }
     }
   ],
@@ -20,11 +48,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "collapse-forces": false,
+  "centerStrength": 0.596354166666667,
+  "repelStrength": 13.4895833333333,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.1790926612854888,
+  "scale": 0.42787783401625984,
   "close": true
 }
