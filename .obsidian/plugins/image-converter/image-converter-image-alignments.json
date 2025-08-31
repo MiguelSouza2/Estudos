@@ -244,10 +244,40 @@
     }
   },
   "Ciências Humanas/História/História do Brasil/República Velha/República Velha.md": {
-    "b18c09a9a43791c33c8c56a1dc97e3fd": {
+    "e1d488b3f53dc55b6923ce2d01323320": {
       "position": "center",
-      "width": "376px",
-      "height": "245px",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "e3255a4f76aeb8dd0f3c0215006c928c": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Ciências Humanas/História/História do Brasil/República Velha/Deodoro da Fonseca.md": {
+    "44a2e4bcc5e7096739a58cbfe15f586f": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Ciências Humanas/História/História do Brasil/República Velha/Floriano Peixoto.md": {
+    "5ffa8377460527639d52bddccba81562": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Ciências Humanas/História/História do Brasil/República Velha/Constituição de 1891.md": {
+    "dd13e9ad387732236c75fc98fd8cd391": {
+      "position": "center",
+      "width": "",
+      "height": "",
       "wrap": false
     }
   }

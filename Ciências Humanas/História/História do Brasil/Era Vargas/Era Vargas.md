@@ -10,7 +10,7 @@ Quando Aconteceu
 A revolução de *1930* foi um movimento armado, que foi liderado pelos estados MG,   
 PB e RS, culminando em um golpe de Estado que depôs o presidente Washington Luís em *24 de outubro de 1930*, impediu a posse do presidente eleito Júlio Preste e pôs fim a  [[República Velha]].
 
-Ocorre a quebra da Bolsa de Nova Iorque ocorrida em *outubro de 1929*, iniciando uma crise econômica em escala mundial, a [[Oligarquia]] rompe a aliança com os mineiros e indicam Júlio Preste para a presidente da República, o governador de minas gerais em reação apoia a candidatura de Getúlio Vargas. 
+Ocorre a quebra da Bolsa de Nova Iorque ocorrida em *outubro de 1929*, iniciando uma crise econômica em escala mundial, a Oligarquia rompe a aliança com os mineiros e indicam Júlio Preste para a presidente da República, o governador de minas gerais em reação apoia a candidatura de Getúlio Vargas. 
 
 Em *1 de março de 1930* ocorrem as eleições para presidente da República, no qual Júlio Preste vence, porém não toma posse, por conta do golpe de estado e é exilado. Getúlio Vargas assume a liderança com o "Governo Provisório" em *3 de novembro de 1930*, também marcando o fim da  [[República Velha]].
 
