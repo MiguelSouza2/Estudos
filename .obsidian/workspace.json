@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Leis de Mendel"
             }
+          },
+          {
+            "id": "6ec072412bd134b2",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,14 +195,15 @@
       "media-extended:Open media": false
     }
   },
-  "active": "5b12750a05764bd9",
+  "active": "6ec072412bd134b2",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Ciências Humanas/Filosofia/Filosofia Antiga/Filosofia Antiga.md",
+    "Ciências da Natureza/Biologia/Genética/Leis de Mendel/Leis de Mendel.md",
     "Excalidraw/Drawing 2025-08-17 11.17.30.excalidraw.md",
     "Excalidraw",
     "Ciências Humanas/Filosofia/Filosofia Medieval/Untitled 1.md",
     "Ciências Humanas/Filosofia/Filosofia Contemporânea/Untitled.md",
-    "conflict-files-obsidian-git.md",
-    "Ciências da Natureza/Biologia/Genética/Leis de Mendel/Leis de Mendel.md",
     "Ciências Humanas/História/História do Brasil/República Velha/img/image 3.png",
     "Ciências Humanas/História/História do Brasil/República Velha/img/image.png",
     "Ciências Humanas/História/História do Brasil/República Velha/img/image 2.png",
@@ -225,7 +241,6 @@
     "Ciências Humanas/História/Principais Conflitos Históricos/Primeira Guerra Mundial/Primeira Guerra Mundial.md",
     "Ciências Humanas/História/História do Brasil/Era Vargas/img",
     "Ciências Humanas/História/História do Brasil/Era Vargas/Oligarquia paulistana.md",
-    "Ciências Humanas/História/História do Brasil/Era Vargas/intentona Comunista.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos",

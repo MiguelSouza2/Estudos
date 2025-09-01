@@ -1,6 +1,6 @@
 **Parmênides de Eleia** foi um dos principais filósofos gregos pré-socráticos da Antiguidade. Seus estudos eram baseados nos temas sobre a ontologia do ser, da razão e da lógica.
 
-![[Parmesao.png]]
+![[Parmesao.png|Busto de Parmênides]]
 
 Seu pensamento influenciou a filosofia da antiguidade bem como a filosofia moderna e contemporânea. Sua frase mais célebre é: “_O ser é e o não ser não é._”
 
