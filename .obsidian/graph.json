@@ -5,41 +5,27 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Ciências Humanas/Filosofia/Filosofia Antiga\"  ",
+      "query": "path:\"Ciências Humanas/Filosofia\"  ",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "path:\"Ciências Humanas/História\"  ",
+      "query": "path:\"Ciências Humanas/História/História do Brasil\"  ",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "path:\"Ciências da Natureza/Física\"  ",
+      "query": "path:\"Ciências Humanas/História/História Geral/Antiguidade\"  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "path:\"Ciências Humanas/Geografia\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    },
-    {
-      "query": "path:\"Ciências Humanas/Filosofia/Filosofia Medieval\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 2874015
+        "rgb": 5404128
       }
     }
   ],
@@ -49,10 +35,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.596354166666667,
-  "repelStrength": 13.4895833333333,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.21768793363168176,
+  "scale": 0.42787781636799127,
   "close": true
 }
