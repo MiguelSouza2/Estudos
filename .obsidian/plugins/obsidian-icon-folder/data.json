@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiMap",
       "❔",
       "LiVerified",
       "LiBrain",
-      "🇧🇷",
-      "LiBaseline"
+      "🇧🇷"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -111,5 +111,6 @@
   "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Sócrates.md": "❔",
   "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Tales de Mileto.md": "❔",
   "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Zenão de Eleia.md": "❔",
-  "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Zenão de Cítio.md": "❔"
+  "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Zenão de Cítio.md": "❔",
+  "Ciências Humanas/Geografia/Cartografia": "LiMap"
 }
