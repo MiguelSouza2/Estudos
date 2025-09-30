@@ -8,49 +8,44 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4e444294501cf610",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciências Humanas/Geografia/Cartografia/Projeções Cartográficas/Projeções Cartográficas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Projeções Cartográficas"
-            }
-          },
-          {
-            "id": "18b51aa34e513525",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciências da Natureza/Química/Química Ambiental/Ciclos Biogeoquímicos/Ciclos Biogeoquímicos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ciclos Biogeoquímicos"
-            }
-          },
-          {
             "id": "51e7050f155fab9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciências da Natureza/Biologia/Genética/Mutação e recombinação genética/Mutação.md",
+                "file": "Ciências Humanas/Filosofia/Filosofia Medieval/Filósofos/Santo Augustinho.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mutação"
+              "title": "Santo Augustinho"
+            }
+          },
+          {
+            "id": "62d9522dfd5ec372",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciências Humanas/Filosofia/Filosofia Contemporânea/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "bd1b5b0af68a0905",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,16 +204,29 @@
       "media-extended:Open media": false
     }
   },
-  "active": "51e7050f155fab9c",
+  "active": "83118e2ed2b931b0",
   "lastOpenFiles": [
+    "Ciências Humanas/Filosofia/Filosofia Medieval/imgs/Obras augusto2.png",
+    "Ciências Humanas/Filosofia/Filosofia Medieval/imgs/Obras augusto.png",
+    "Ciências Humanas/Filosofia/Filosofia Medieval/Filósofos/Santo Augustinho.md",
+    "Ciências Humanas/Filosofia/Filosofia Contemporânea/Untitled.md",
+    "Ciências Humanas/Filosofia/Filosofia Contemporânea/Filosofia Comtemporânea.md",
+    "Ciências Humanas/Filosofia/Filosofia Medieval/Filósofos/Adeodato.md",
+    "Ciências Humanas/Filosofia/Filosofia Medieval/Tempos da Filosofia Medieval/Patrística.md",
+    "Ciências Humanas/Filosofia/Filosofia Medieval/Filósofos/Santa Mônica.md",
+    "Ciências Humanas/Filosofia/Filosofia Medieval/Tempos da Filosofia Medieval/Escolástica.md",
+    "Ciências Humanas/Filosofia/Filosofia Medieval/Tempos da Filosofia Medieval/Padres Apologistas.md",
+    "Ciências Humanas/Filosofia/Filosofia Medieval/Tempos da Filosofia Medieval/Padres Apostólicos.md",
+    "Ciências Humanas/Geografia/Cartografia/Projeções Cartográficas/Projeções Cartográficas.md",
+    "Ciências da Natureza/Química/Química Ambiental/Ciclos Biogeoquímicos/Ciclos Biogeoquímicos.md",
+    "Ciências Humanas/Filosofia/Filosofia Medieval/Filósofos/São Tomás de Aquino.md",
+    "Ciências da Natureza/Biologia/Genética/Mutação e recombinação genética/Mutação.md",
     "Ciências da Natureza/Biologia/Genética/Mutação e recombinação genética/img/mutacao-genica.webp",
     "Ciências da Natureza/Biologia/Genética/Mutação e recombinação genética/img/Não confirmado 37307.crdownload",
     "Ciências da Natureza/Biologia/Genética/Mutação e recombinação genética/img",
     "Ciências da Natureza/Biologia/Genética/Herança ligada ao sexo/Untitled 2.md",
-    "Ciências da Natureza/Biologia/Genética/Mutação e recombinação genética/Mutação.md",
     "Ciências da Natureza/Biologia/Botânica/Estrutura e função das plantas/Untitled 2.md",
     "Ciências da Natureza/Química/Química Ambiental/Ciclos Biogeoquímicos/exercicios/links.md",
-    "Ciências da Natureza/Química/Química Ambiental/Ciclos Biogeoquímicos/Ciclos Biogeoquímicos.md",
     "Ciências da Natureza/Química/Química Ambiental/Ciclos Biogeoquímicos/exercicios",
     "Ciências da Natureza/Biologia/Ecologia/Ciclos biogeoquímicos/Untitled 2.md",
     "Ciências da Natureza/Biologia/Botânica/Fotossínte e respiração celular/Fotossíntese.md",
@@ -226,7 +234,6 @@
     "Ciências Humanas/História/Principais Conflitos Históricos/Guerra Fria/Guerra Fria.md",
     "Ciências da Natureza/Biologia/Botânica/Fotossínte e respiração celular/img/fotolise-agua.png",
     "Ciências da Natureza/Biologia/Botânica/Fotossínte e respiração celular/img",
-    "Ciências Humanas/Geografia/Cartografia/Projeções Cartográficas/Projeções Cartográficas.md",
     "Ciências Humanas/Geografia/Cartografia/Projeções Cartográficas/img/mercator.webp",
     "Ciências Humanas/Geografia/Cartografia/Projeções Cartográficas/img/Não confirmado 536748.crdownload",
     "Ciências Humanas/Geografia/Cartografia/Projeções Cartográficas/img/robinson.webp",
@@ -243,20 +250,8 @@
     "Ciências Humanas/Geografia/Cartografia/Escalas/Untitled.md",
     "Ciências Humanas/Geografia/Cartografia/Geotecnologia/Untitled.md",
     "Ciências Humanas/Geografia/Cartografia/Simbologia/Untitled 1.md",
-    "Ciências Humanas/Geografia/Cartografia/Tipos de mapas/Untitled.md",
     "Ciências Humanas/Geografia/Cartografia/Geotecnologia",
-    "Ciências Humanas/História/História do Brasil/República Populista/República Populista.md",
-    "Ciências Humanas/História/História Geral/Antiguidade/hebreus.md",
-    "Ciências Humanas/História/História Geral/Antiguidade/fenícios.md",
-    "Ciências Humanas/História/História Geral/Antiguidade/Sumérios.md",
-    "Ciências Humanas/História/História Geral/Antiguidade/Roma.md",
-    "Ciências Humanas/História/História Geral/Antiguidade/Persas.md",
-    "Ciências Humanas/História/História Geral/Antiguidade/Grécia.md",
-    "Ciências Humanas/História/História Geral/Antiguidade/Civilização Egípcia.md",
-    "Ciências Humanas/História/História Geral/Antiguidade/Antiguidade.md",
     "Ciências Humanas/História/História do Brasil/República Velha/img/image 3.png",
-    "Ciências Humanas/História/História do Brasil/República Velha/img/image.png",
-    "Ciências Humanas/História/História do Brasil/República Velha/img/image 2.png",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Sem título.canvas",
