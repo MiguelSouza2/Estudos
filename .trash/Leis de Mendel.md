@@ -15,9 +15,12 @@ Como todas as sementes geradas eram amarelas, Mendel realizou a autofecundação
 
 ![[primeiralei1b.webp]]
 
+<<<<<<< HEAD:.trash/Leis de Mendel.md
 <<<<<<< HEAD
 ----
 =======
+=======
+>>>>>>> origin/main:Ciências da Natureza/Biologia/Genética/Leis de Mendel/Leis de Mendel.md
 
 ## 2ª Lei de Mendel — Segregação Independente dos Genes ou Diibridismo
 > Os pares de alelos de características diferentes se distribuem independentemente na formação dos gametas.
@@ -37,5 +40,8 @@ A **terceira lei de Mendel**, conhecida como a lei da dominância, afirma que e
 > Serve para poder visualizar como os alelos dos pais se combinam nos filhos
 
 ![[quadPunett.png]]
+<<<<<<< HEAD:.trash/Leis de Mendel.md
 >>>>>>> origin/main
+=======
+>>>>>>> origin/main:Ciências da Natureza/Biologia/Genética/Leis de Mendel/Leis de Mendel.md
 

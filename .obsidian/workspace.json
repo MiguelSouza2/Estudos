@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "bc30be658f390081",
+    "type": "split",
+    "children": [
+      {
+        "id": "97936a77061a8acc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2886c56f1e6fd0e",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Ciências da Natureza/Biologia/Genética/Leis de Mendel/Leis de Mendel.md",
+                "bFile": "Ciências da Natureza/Biologia/Genética/Leis de Mendel/Leis de Mendel.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Leis de Mendel"
+            }
+          },
+          {
+            "id": "27afb3eeb29647d1",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cfbbe11f7683ee7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5048db3de128b660",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b0627476b7c95bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e92c02bc8fc52ceb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4e57326613dad854",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "7972a8a706615f14",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8cdb0b2bd8bffd7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2ac1f8fd649ad98",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ciências da Natureza/Química/Físico Química/Ácidos e bases/Ácidos e bases.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Ácidos e bases"
+            }
+          },
+          {
+            "id": "67d448e204b2d6e7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "LINKS PARA CARLA.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from LINKS PARA CARLA"
+            }
+          },
+          {
+            "id": "2a0845f07df2ddff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7c620ac35b108e9b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "LINKS PARA CARLA.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of LINKS PARA CARLA"
+            }
+          },
+          {
+            "id": "c496e102079e36a1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 259.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "media-extended:Open media": false
+    }
+  },
+  "active": "c496e102079e36a1",
+  "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Ciências da Natureza/Biologia/Genética/Leis de Mendel/Gregor Mendel.md",
+    "Ciências da Natureza/Biologia/Genética/Leis de Mendel/Leis de Mendel.md",
+    "Ciências Humanas/Filosofia/Filosofia Medieval/imgs/Tagaste.png",
+    "Ciências Humanas/Filosofia/Filosofia Medieval/imgs/Obras augusto2.png",
+    "Ciências Humanas/Filosofia/Filosofia Medieval/imgs/Obras augusto.png",
+    "Ciências Humanas/Filosofia/Filosofia Medieval/imgs",
+    "Ciências Humanas/Filosofia/Filosofia Medieval/Tempos da Filosofia Medieval/Patrística.md",
+    "Ciências Humanas/Filosofia/Filosofia Medieval/Tempos da Filosofia Medieval/Padres Apostólicos.md",
+    "Ciências Humanas/Filosofia/Filosofia Medieval/Tempos da Filosofia Medieval/Padres Apologistas.md",
+    "Ciências Humanas/Filosofia/Filosofia Medieval/Tempos da Filosofia Medieval/Escolástica.md",
+    "Ciências Humanas/Filosofia/Filosofia Medieval/Tempos da Filosofia Medieval",
+    "Ciências da Natureza/Química/Química Ambiental/Ciclos Biogeoquímicos/exercicios/links.md",
+    "Ciências da Natureza/Química/Química Ambiental/Ciclos Biogeoquímicos/exercicios",
+    "Ciências da Natureza/Biologia/Genética/Mutação e recombinação genética/img/mutacao-genica.webp",
+    "Ciências da Natureza/Biologia/Genética/Mutação e recombinação genética/img",
+    "Ciências da Natureza/Biologia/Genética/Mutação e recombinação genética/Mutação.md",
+    "Ciências da Natureza/Biologia/Genética/Leis de Mendel/img/quadPunett.png",
+    "Ciências da Natureza/Biologia/Botânica/Fotossínte e respiração celular/img/fotolise-agua.png",
+    "Ciências da Natureza/Biologia/Botânica/Fotossínte e respiração celular/img",
+    "Ciências da Natureza/Biologia/Botânica/Fotossínte e respiração celular/Fotossíntese.md",
+    "Ciências Humanas/História/Principais Conflitos Históricos/Primeira Guerra Mundial/Liga das Nações.md",
+    "Ciências Humanas/História/Principais Conflitos Históricos/Guerra Fria/Guerra Fria.md",
+    "Ciências Humanas/História/História do Brasil/República Velha/img/image.png",
+    "Ciências Humanas/História/História do Brasil/República Velha/img/image 3.png",
+    "Ciências Humanas/História/História do Brasil/República Velha/img/image 2.png",
+    "Ciências Humanas/História/História do Brasil/República Velha/img/image 1.png",
+    "Ciências Humanas/História/História do Brasil/República Velha/img",
+    "Ciências Humanas/História/História Geral/Antiguidade/Persas.md",
+    "Ciências Humanas/História/História Geral/Antiguidade/Grécia.md",
+    "Ciências Humanas/História/História Geral/Antiguidade/Civilização Egípcia.md",
+    "Ciências Humanas/História/História Geral/Antiguidade/Antiguidade.md",
+    "Ciências Humanas/Geografia/Cartografia/Tipos de mapas/Untitled.md",
+    "Ciências Humanas/Geografia/Cartografia/Simbologia/Untitled 1.md",
+    "Ciências Humanas/Geografia/Cartografia/Projeções Cartográficas/Projeções Cartográficas.md",
+    "Ciências Humanas/Geografia/Cartografia/Projeções Cartográficas/img",
+    "Ciências Humanas/Geografia/Cartografia/História da Cartografia/História da Cartografia.md",
+    "Ciências Humanas/Geografia/Cartografia/Geotecnologia/Untitled.md",
+    "Ciências Humanas/Geografia/Cartografia/Escalas/Untitled.md",
+    "Ciências Humanas/Geografia/Cartografia/Tipos de mapas",
+    "Ciências Humanas/Geografia/Cartografia/Simbologia",
+    "Ciências Humanas/Geografia/Cartografia/Projeções Cartográficas",
+    "Ciências Humanas/Filosofia/Filosofia Medieval/Filósofos/São Tomás de Aquino.md",
+    "Ciências Humanas/Filosofia/Filosofia Medieval/Filósofos/Santo Augustinho.md",
+    "Ciências Humanas/Filosofia/Filosofia Medieval/Filósofos/Santa Mônica.md",
+    "Ciências Humanas/Filosofia/Filosofia Medieval/Filósofos/Adeodato.md",
+    "Untitled.canvas"
+  ]
+}
