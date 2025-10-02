@@ -37,6 +37,7 @@ Também chamada de **ligação eletrovalente**, esse tipo de ligação é reali
 
 Para ocorrer uma ligação iônica os átomos envolvidos apresentam tendências opostas: um átomo deve ter a capacidade de perder elétrons enquanto o outro tende a recebê-los.
 
+
 Portanto, um ânion, de carga negativa, se une com um cátion, de carga positiva, formando um composto iônico por meio da interação eletrostática existente entre eles.
 
 **Exemplo**: 

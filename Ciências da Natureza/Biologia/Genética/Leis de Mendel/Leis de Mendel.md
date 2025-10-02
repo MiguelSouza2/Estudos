@@ -14,3 +14,6 @@ Mendel observou isso após cruzar duas ervilhas de linhagens diferentes, uma de 
 Como todas as sementes geradas eram amarelas, Mendel realizou a autofecundação entre elas. Na nova linhagem, geração F2, surgiram sementes amarelas e verdes, na proporção 3:1 (amarelas ←→ verdes).
 
 ![[primeiralei1b.webp]]
+
+----
+

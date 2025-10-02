@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a47e8a905c206101",
+        "id": "bd168cda7d29e970",
         "type": "tabs",
         "children": [
           {
-            "id": "f4b497d2e6d6dea9",
+            "id": "e055df111f3fcb28",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Zenão de Cítio.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Ciências Humanas/História/História do Brasil/Ditadura Militar/João Goulart.md",
+                "bFile": "Ciências Humanas/História/História do Brasil/Ditadura Militar/João Goulart.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Zenão de Cítio"
+              "icon": "diff",
+              "title": "Diff: João Goulart"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 447.5
+    "width": 200
   },
   "right": {
     "id": "7972a8a706615f14",
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ciências da Natureza/Química/Físico Química/Ácidos e bases/Ácidos e bases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Ácidos e bases"
             }
           },
           {
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "LINKS PARA CARLA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from LINKS PARA CARLA"
             }
           },
           {
@@ -180,55 +182,54 @@
       "media-extended:Open media": false
     }
   },
-  "active": "f4b497d2e6d6dea9",
+  "active": "e055df111f3fcb28",
   "lastOpenFiles": [
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Zenão de Eleia.md",
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Platão.md",
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Protágoras.md",
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Sócrates.md",
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Tales de Mileto.md",
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Zenão de Cítio.md",
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Filosofia Antiga.md",
-    "conflict-files-obsidian-git.md",
-    "Ciências da Natureza/Biologia/Genética/Leis de Mendel/img/primeiralei1b.webp",
-    "Ciências da Natureza/Biologia/Genética/Leis de Mendel/img",
-    "Ciências da Natureza/Biologia/Genética/Leis de Mendel/Leis de Mendel.md",
-    "Ciências da Natureza/Biologia/Genética/Leis de Mendel/Gregor Mendel.md",
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Imgs/citio.png",
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Imgs/eleia.png",
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Imgs/image.png",
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Imgs/parazenano.png",
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Aristóteles.md",
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Górgias de Leontini.md",
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Epicuro.md",
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Heráclito de Éfeso.md",
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Parmênides de Eleia.md",
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Pirro de Élida.md",
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Pitágoras de Samos.md",
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Imgs/protag.png",
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Imgs/soc.png",
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Imgs/tales.png",
-    "README.md",
-    "Ciências Humanas/História/História do Brasil/Ditadura Militar/img/Pasted image 20250815194031.png",
-    "Ciências Humanas/História/História do Brasil/Ditadura Militar/img/Pasted image 20250815193904.png",
-    "Parmênides.md",
-    "Ciências Humanas/Filosofia/Filosofia Medieval/Untitled 1.md",
-    "Pitágoras.md",
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos/Anaximandro de Mileto.md",
-    "Ciências Humanas/História/História do Brasil/Ditadura Militar/Castello Branco.md",
-    "Ciências Humanas/História/História do Brasil/Ditadura Militar/Direitas já.md",
-    "Ciências Humanas/História/Principais Conflitos Históricos/Segunda Guerra Mundial/Segunda Guerra Mundial.md",
+    "Ciências Humanas/História/Principais Conflitos Históricos/Guerra Fria/Untitled 2.md",
+    "Ciências Humanas/História/Principais Conflitos Históricos/Período entre guerras/Untitled 2.md",
+    "Ciências Humanas/História/Principais Conflitos Históricos/Primeira Guerra Mundial/Untitled 2.md",
     "Ciências Humanas/História/Principais Conflitos Históricos/Primeira Guerra Mundial/Primeira Guerra Mundial.md",
-    "Ciências Humanas/História/História do Brasil/Era Vargas/img",
-    "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos",
-    "Untitled 1.canvas",
-    "Excalidraw/desktop.ini",
-    "Untitled.canvas",
-    "Excalidraw",
-    "Ciências da Natureza/Química/Química Orgânica/Classificação das Cadeias Carbônicas/desktop.ini",
+    "Ciências Humanas/História/Movimentos Sociais e Direitos Humanos/Untitled 2.md",
+    "Ciências Humanas/História/História do Brasil/Ditadura Militar/José Sarney.md",
+    "Ciências Humanas/História/História do Brasil/Ditadura Militar/João Goulart.md",
+    "Ciências Humanas/História/História do Brasil/Ditadura Militar/Emenda Dante de Oliveira.md",
+    "Ciências Humanas/História/História do Brasil/Ditadura Militar/Ditadura Militar no Brasil.md",
+    "Ciências Humanas/História/História do Brasil/Ditadura Militar/Direitas já.md",
+    "Ciências da Natureza/Química/Química Geral/Ligações Químicas/Ligações Químicas.md",
+    "Ciências da Natureza/Química/Química Geral/Estequiometria/Estequiometria.md",
+    "Ciências da Natureza/Química/Química Geral/Geometria Molecular/Geometria Molecular.md",
+    "Ciências da Natureza/Química/Química Geral/Misturas/Misturas.md",
+    "Ciências da Natureza/Química/Química Geral/Propriedades Periódicas/Propriedades Periódicas.md",
+    "Ciências da Natureza/Biologia/Genética/Leis de Mendel/Leis de Mendel.md",
+    "Ciências da Natureza/Química/Química Orgânica/Funções Orgânicas/Funções Orgânicas.md",
+    "Ciências da Natureza/Química/Química Orgânica/Isomeria/img/trans.webp",
+    "Ciências da Natureza/Química/Química Orgânica/Isomeria/img/sintese-da-ureia.webp",
+    "Ciências da Natureza/Química/Química Orgânica/Isomeria/img/isomeria_a_ptica_2.webp",
+    "Ciências da Natureza/Química/Química Orgânica/Isomeria/img/isomeriaposicao-0.webp",
+    "Ciências da Natureza/Química/Química Orgânica/Isomeria/img/isomeria-plana-cadeia.webp",
+    "Ciências da Natureza/Química/Química Orgânica/Isomeria/img/iso-funcao.png",
+    "Ciências da Natureza/Química/Química Orgânica/Isomeria/img/iso-compensacao.png",
+    "Ciências da Natureza/Química/Química Orgânica/Isomeria/img/cis.webp",
     "Ciências da Natureza/Química/Química Orgânica/Isomeria/img",
+    "Ciências da Natureza/Química/Química Orgânica/Isomeria/Isomeria.md",
+    "Ciências da Natureza/Química/Química Orgânica/Isomeria",
+    "Ciências da Natureza/Química/Química Orgânica/Classificação das Cadeias Carbônicas/Classificação das Cadeias Carbônicas.md",
     "Ciências da Natureza/Química/Química Orgânica/Classificação das Cadeias Carbônicas",
+    "Ciências da Natureza/Química/Química Orgânica/Reações Orgânicas/img/subs-sulfur.png",
+    "Ciências da Natureza/Química/Química Orgânica/Reações Orgânicas/img/subs-nitro.png",
+    "Ciências da Natureza/Química/Química Orgânica/Reações Orgânicas/img",
+    "Ciências da Natureza/Biologia/Genética/Leis de Mendel/img",
+    "Ciências da Natureza/Biologia/Genética/Leis de Mendel/Gregor Mendel.md",
+    "Ciências da Natureza/Biologia/Genética/Leis de Mendel",
+    "Ciências Humanas/História/Principais Conflitos Históricos/Segunda Guerra Mundial/Segunda Guerra Mundial.md",
+    "Ciências Humanas/História/História do Brasil/República Velha/República Velha.md",
+    "Ciências Humanas/História/História do Brasil/Era Vargas/queremismo.md",
+    "Ciências Humanas/História/História do Brasil/Era Vargas/oligarquia paulista.md",
+    "Ciências Humanas/História/História do Brasil/Era Vargas/intentona Comunista.md",
+    "Ciências Humanas/História/História do Brasil/Era Vargas/img",
+    "Ciências Humanas/História/História do Brasil/Era Vargas/Oligarquia paulistana.md",
     "Ciências Humanas/História/História do Brasil/Ditadura Militar/img",
-    "Ciências da Natureza/Química/Química Orgânica/Reações Orgânicas/img"
+    "Ciências Humanas/Filosofia/Filosofia Antiga/Imgs",
+    "Ciências Humanas/Filosofia/Filosofia Antiga/Filósofos",
+    "Untitled.canvas"
   ]
 }
