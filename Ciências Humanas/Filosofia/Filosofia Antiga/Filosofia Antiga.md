@@ -14,6 +14,8 @@ Durante a transição do pensamento mítico para o racional, os filósofos acred
 
 Por esse motivo, no início, a filosofia estava diretamente relacionada com a religião: os mitos, crenças, etc. Assim, o pensamento mítico foi dando lugar ao pensamento racional, ou ainda, do mito ao _logos_ *(Lógica // λόγος)*.
 
+Futuramente, as ideias que nasceram na filosofia antiga voltariam a ser aplicadas, com certas diferenças, na [[Filosofia Medieval]]
+
 ## **Contexto Histórico para o surgimento da Filosofia**
 
 A substituição do saber mítico para o saber da razão aconteceu com a criação das polis gregas (cidades-estados). 

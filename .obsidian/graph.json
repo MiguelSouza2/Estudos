@@ -8,10 +8,24 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Filosofia\"  ",
+      "query": "path:\"Ciências Humanas/Filosofia\"  ",
       "color": {
         "a": 1,
         "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"Ciências Humanas/História/História do Brasil\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"Ciências Humanas/História/História Geral/Antiguidade\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5404128
       }
     }
   ],
@@ -20,11 +34,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.1790926612854888,
+  "scale": 0.27268599173601166,
   "close": true
 }

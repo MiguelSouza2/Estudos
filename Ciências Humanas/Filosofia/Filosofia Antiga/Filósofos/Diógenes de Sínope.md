@@ -15,7 +15,7 @@ Alcançou reflexões filosóficas sobre a natureza e o ser humano, fazendo parte
 
 Alexandre foi até Diógenes e perguntou o que ele queria. Sem hesitar, Diógenes respondeu: “_Senhor, apenas não tire de mim o que não pode me dar_”.
 
-Noutra versão ele teria respondido “_Sim, podes sair da frente do meu sol_”. Impressionado com o desprezo do filósofo, o conquistador comentou: “_Se eu não fosse Alexandre, queria ser Diógenes_”.
+Noutra versão ele teria respondido “_Sim, podes sair da frente do meu sol_”. Impressionado com o desprezo do filósofo, o conquistador comentou: “_Se eu não fosse Alexandre[^1], queria ser Diógenes_”.
 
 ![[alex e dio.png|Alexandre e Diógenes, de Nicolas-André Monsiau (1818)]]
 
@@ -38,3 +38,8 @@ Confira abaixo algumas frases que traduzem o pensamento de Diógenes:
 - “_Qual o melhor momento para o jantar? 'Se alguém é rico, quando quiser, se é pobre, quando puder'_.”
 - “_Os grandes são como o fogo, do qual convém não nos aproximarmos muito nem afastarmo-nos demasiado_. ”
 - “_Para que serve um filósofo, se não para machucar os sentimentos de alguém?_”
+
+---
+
+
+[^1]: Alexandre Magno, Aluno de [[Aristóteles]]
